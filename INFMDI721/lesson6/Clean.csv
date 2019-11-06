@@ -1,0 +1,1093 @@
+,Spécialistes,Dept,Hon_ss_depass,Depass,Eff,DeptCode,DeptName,DensPop
+0,02- Anesthésie-réanimation chirurgicale,10,4138357,14265,13,10,Aube,59
+1,03- Pathologie cardio-vasculaire,10,2911217,86720,14,10,Aube,59
+2,41- Chirurgie orthopédique et traumatologie,10,3216351,2097372,14,10,Aube,59
+3,06- Radiodiagnostic et imagerie médicale,10,9707190,3204,19,10,Aube,59
+4,Women,10,1557907,582298,13,10,Aube,59
+5,08- Gastro-entérologie et hépatologie,10,2660680,343082,11,10,Aube,59
+6,15- Ophtalmologie,10,5287403,746377,18,10,Aube,59
+7,02- Anesthésie-réanimation chirurgicale,11,4552207,339450,16,11,Aude,58
+8,03- Pathologie cardio-vasculaire,11,6769657,1246,23,11,Aude,58
+9,05- Dermato-vénéréologie,11,1876074,232149,11,11,Aude,58
+10,06- Radiodiagnostic et imagerie médicale,11,17494201,6597,41,11,Aude,58
+11,Women,11,3012972,57873,12,11,Aude,58
+12,Children,11,1492047,16968,11,11,Aude,58
+13,15- Ophtalmologie,11,8568477,1280293,26,11,Aude,58
+14,33- Psychiatrie,11,2641659,115128,17,11,Aude,58
+15,02- Anesthésie-réanimation chirurgicale,13,48299492,3252987,217,13,Bouches-du-Rhône,396
+16,03- Pathologie cardio-vasculaire,13,64030259,456102,274,13,Bouches-du-Rhône,396
+17,46- Chirurgie plastique reconstructrice et esthétique,13,3211253,3397235,39,13,Bouches-du-Rhône,396
+18,48- Chirurgie vasculaire,13,3245939,360659,17,13,Bouches-du-Rhône,396
+19,49- Chirurgie viscérale et digestive,13,2351235,615106,24,13,Bouches-du-Rhône,396
+20,04- Chirurgie générale,13,11107468,3165552,71,13,Bouches-du-Rhône,396
+21,10- Neurochirurgie,13,5113407,2494709,13,13,Bouches-du-Rhône,396
+22,16- Chirurgie urologique,13,8666603,2421675,34,13,Bouches-du-Rhône,396
+23,41- Chirurgie orthopédique et traumatologie,13,19897332,10785246,103,13,Bouches-du-Rhône,396
+24,05- Dermato-vénéréologie,13,18465558,3773933,152,13,Bouches-du-Rhône,396
+25,72- Médecine nucléaire,13,8530592,2562,15,13,Bouches-du-Rhône,396
+26,06- Radiodiagnostic et imagerie médicale,13,112571153,481279,241,13,Bouches-du-Rhône,396
+27,Women,13,6892196,999192,58,13,Bouches-du-Rhône,396
+28,Women,13,24858810,10866659,170,13,Bouches-du-Rhône,396
+29,08- Gastro-entérologie et hépatologie,13,14678869,353769,91,13,Bouches-du-Rhône,396
+30,09- Médecine interne,13,1184115,288374,15,13,Bouches-du-Rhône,396
+31,11- Oto-rhino-laryngologie,13,17337441,4363620,100,13,Bouches-du-Rhône,396
+32,Children,13,14550896,3330493,137,13,Bouches-du-Rhône,396
+33,13- Pneumologie,13,11499824,307903,64,13,Bouches-du-Rhône,396
+34,14- Rhumatologie,13,11063460,1232301,79,13,Bouches-du-Rhône,396
+35,15- Ophtalmologie,13,56508014,16350881,215,13,Bouches-du-Rhône,396
+36,45- Chirurgie maxillo-faciale et stomatologie,13,4105378,1617820,25,13,Bouches-du-Rhône,396
+37,18- Stomatologie,13,2748664,1225842,22,13,Bouches-du-Rhône,396
+38,31- Médecine Physique et de Réadaptation,13,3269635,181180,33,13,Bouches-du-Rhône,396
+39,32- Neurologie,13,5829994,309031,49,13,Bouches-du-Rhône,396
+40,33- Psychiatrie,13,48381004,3581339,353,13,Bouches-du-Rhône,396
+41,35- Néphrologie,13,8057401,42450,34,13,Bouches-du-Rhône,396
+42,37- Anatomo-cyto-pathologie,13,13475215,52332,32,13,Bouches-du-Rhône,396
+43,42- Endocrinologie et métabolisme,13,4758347,1529459,48,13,Bouches-du-Rhône,396
+44,38- Médecins biologistes,13,146710,48,38,13,Bouches-du-Rhône,396
+45,02- Anesthésie-réanimation chirurgicale,14,13326038,229875,40,14,Calvados,124
+46,03- Pathologie cardio-vasculaire,14,17646792,349206,56,14,Calvados,124
+47,04- Chirurgie générale,14,4428555,1089272,17,14,Calvados,124
+48,16- Chirurgie urologique,14,3367559,566380,11,14,Calvados,124
+49,41- Chirurgie orthopédique et traumatologie,14,7267109,2715717,25,14,Calvados,124
+50,05- Dermato-vénéréologie,14,4760478,1177110,27,14,Calvados,124
+51,06- Radiodiagnostic et imagerie médicale,14,31028095,4353,61,14,Calvados,124
+52,Women,14,6287958,1536347,33,14,Calvados,124
+53,08- Gastro-entérologie et hépatologie,14,4455919,56812,18,14,Calvados,124
+54,11- Oto-rhino-laryngologie,14,4557763,712178,21,14,Calvados,124
+55,Children,14,3367786,586063,26,14,Calvados,124
+56,13- Pneumologie,14,1565451,1081,11,14,Calvados,124
+57,14- Rhumatologie,14,1686693,198199,12,14,Calvados,124
+58,15- Ophtalmologie,14,19707359,3309308,45,14,Calvados,124
+59,33- Psychiatrie,14,3650711,298516,38,14,Calvados,124
+60,02- Anesthésie-réanimation chirurgicale,16,5414718,1116346,18,16,Charente,59
+61,03- Pathologie cardio-vasculaire,16,4195238,3793,20,16,Charente,59
+62,41- Chirurgie orthopédique et traumatologie,16,4112051,1151042,14,16,Charente,59
+63,05- Dermato-vénéréologie,16,2021488,128905,11,16,Charente,59
+64,06- Radiodiagnostic et imagerie médicale,16,9207507,64941,22,16,Charente,59
+65,Women,16,2975377,612885,12,16,Charente,59
+66,15- Ophtalmologie,16,6750556,1353878,20,16,Charente,59
+67,33- Psychiatrie,16,1873802,289805,15,16,Charente,59
+68,02- Anesthésie-réanimation chirurgicale,17,9042063,1300427,31,17,Charente-Maritime,92
+69,03- Pathologie cardio-vasculaire,17,10034955,226243,48,17,Charente-Maritime,92
+70,16- Chirurgie urologique,17,2479466,641216,15,17,Charente-Maritime,92
+71,41- Chirurgie orthopédique et traumatologie,17,5507215,2086888,23,17,Charente-Maritime,92
+72,05- Dermato-vénéréologie,17,3796181,424745,23,17,Charente-Maritime,92
+73,06- Radiodiagnostic et imagerie médicale,17,20401181,162756,43,17,Charente-Maritime,92
+74,Women,17,3387106,690197,22,17,Charente-Maritime,92
+75,08- Gastro-entérologie et hépatologie,17,4330113,834201,20,17,Charente-Maritime,92
+76,11- Oto-rhino-laryngologie,17,3554756,597756,20,17,Charente-Maritime,92
+77,Children,17,1990287,180573,16,17,Charente-Maritime,92
+78,13- Pneumologie,17,1868793,166965,12,17,Charente-Maritime,92
+79,14- Rhumatologie,17,2645046,209341,16,17,Charente-Maritime,92
+80,15- Ophtalmologie,17,16069473,5649272,40,17,Charente-Maritime,92
+81,32- Neurologie,17,1448493,60858,11,17,Charente-Maritime,92
+82,33- Psychiatrie,17,4134060,345573,28,17,Charente-Maritime,92
+83,38- Médecins biologistes,17,62214,135,14,17,Charente-Maritime,92
+84,02- Anesthésie-réanimation chirurgicale,2B,3380287,82206,12,2B,Haute-Corse,36
+85,03- Pathologie cardio-vasculaire,2B,4660063,3671,20,2B,Haute-Corse,36
+86,06- Radiodiagnostic et imagerie médicale,2B,6761103,2426,13,2B,Haute-Corse,36
+87,15- Ophtalmologie,2B,3231256,1345341,13,2B,Haute-Corse,36
+88,33- Psychiatrie,2B,3916495,197759,17,2B,Haute-Corse,36
+89,02- Anesthésie-réanimation chirurgicale,21,8966352,2809601,27,21,Côte-d'Or,60
+90,03- Pathologie cardio-vasculaire,21,9531535,299804,35,21,Côte-d'Or,60
+91,41- Chirurgie orthopédique et traumatologie,21,7935209,4063415,26,21,Côte-d'Or,60
+92,05- Dermato-vénéréologie,21,4167351,743534,33,21,Côte-d'Or,60
+93,06- Radiodiagnostic et imagerie médicale,21,21928736,228473,50,21,Côte-d'Or,60
+94,Women,21,5798084,2011434,30,21,Côte-d'Or,60
+95,08- Gastro-entérologie et hépatologie,21,4058635,245125,18,21,Côte-d'Or,60
+96,11- Oto-rhino-laryngologie,21,3302653,854118,16,21,Côte-d'Or,60
+97,Children,21,1821242,50907,13,21,Côte-d'Or,60
+98,14- Rhumatologie,21,1318122,332325,11,21,Côte-d'Or,60
+99,15- Ophtalmologie,21,13561063,6115567,33,21,Côte-d'Or,60
+100,32- Neurologie,21,2729583,250272,13,21,Côte-d'Or,60
+101,33- Psychiatrie,21,3921240,135583,38,21,Côte-d'Or,60
+102,02- Anesthésie-réanimation chirurgicale,22,7346439,73550,29,22,Côtes-d'Armor,87
+103,03- Pathologie cardio-vasculaire,22,5973824,3275,26,22,Côtes-d'Armor,87
+104,41- Chirurgie orthopédique et traumatologie,22,4134752,795361,17,22,Côtes-d'Armor,87
+105,05- Dermato-vénéréologie,22,2087403,34771,13,22,Côtes-d'Armor,87
+106,06- Radiodiagnostic et imagerie médicale,22,12217864,2180,24,22,Côtes-d'Armor,87
+107,Women,22,1891795,36468,12,22,Côtes-d'Armor,87
+108,Women,22,1748423,163515,12,22,Côtes-d'Armor,87
+109,08- Gastro-entérologie et hépatologie,22,3849373,41690,15,22,Côtes-d'Armor,87
+110,11- Oto-rhino-laryngologie,22,3717933,45314,15,22,Côtes-d'Armor,87
+111,Children,22,2099205,10044,15,22,Côtes-d'Armor,87
+112,15- Ophtalmologie,22,11874705,2221397,33,22,Côtes-d'Armor,87
+113,33- Psychiatrie,22,4457391,102055,23,22,Côtes-d'Armor,87
+114,02- Anesthésie-réanimation chirurgicale,24,5249042,721042,14,24,Dordogne,46
+115,03- Pathologie cardio-vasculaire,24,3672110,31441,16,24,Dordogne,46
+116,41- Chirurgie orthopédique et traumatologie,24,3927074,1613149,15,24,Dordogne,46
+117,05- Dermato-vénéréologie,24,2366042,253358,14,24,Dordogne,46
+118,06- Radiodiagnostic et imagerie médicale,24,13029460,182118,24,24,Dordogne,46
+119,Women,24,2505737,594859,16,24,Dordogne,46
+120,11- Oto-rhino-laryngologie,24,2069904,548844,11,24,Dordogne,46
+121,15- Ophtalmologie,24,7726030,1065733,28,24,Dordogne,46
+122,33- Psychiatrie,24,1911245,185661,20,24,Dordogne,46
+123,02- Anesthésie-réanimation chirurgicale,25,7100289,285550,23,25,Doubs,101
+124,03- Pathologie cardio-vasculaire,25,10231558,36133,34,25,Doubs,101
+125,16- Chirurgie urologique,25,2445692,1001179,15,25,Doubs,101
+126,41- Chirurgie orthopédique et traumatologie,25,5109805,2349948,20,25,Doubs,101
+127,05- Dermato-vénéréologie,25,4338492,681863,31,25,Doubs,101
+128,06- Radiodiagnostic et imagerie médicale,25,21152526,11070,46,25,Doubs,101
+129,Women,25,4518951,329830,23,25,Doubs,101
+130,08- Gastro-entérologie et hépatologie,25,3606059,260951,16,25,Doubs,101
+131,11- Oto-rhino-laryngologie,25,2437214,261697,15,25,Doubs,101
+132,Children,25,2540479,103056,18,25,Doubs,101
+133,14- Rhumatologie,25,2329290,156406,13,25,Doubs,101
+134,15- Ophtalmologie,25,10187994,2630023,28,25,Doubs,101
+135,33- Psychiatrie,25,5351830,102339,43,25,Doubs,101
+136,02- Anesthésie-réanimation chirurgicale,26,3463926,1295211,13,26,Drôme,75
+137,03- Pathologie cardio-vasculaire,26,6442118,150782,33,26,Drôme,75
+138,41- Chirurgie orthopédique et traumatologie,26,3153669,1272152,13,26,Drôme,75
+139,05- Dermato-vénéréologie,26,2536288,276353,18,26,Drôme,75
+140,06- Radiodiagnostic et imagerie médicale,26,17500673,9347,37,26,Drôme,75
+141,Women,26,2791790,477831,21,26,Drôme,75
+142,08- Gastro-entérologie et hépatologie,26,3102278,583062,15,26,Drôme,75
+143,11- Oto-rhino-laryngologie,26,1779238,476221,11,26,Drôme,75
+144,Children,26,1460007,108001,12,26,Drôme,75
+145,13- Pneumologie,26,2850635,135029,11,26,Drôme,75
+146,15- Ophtalmologie,26,8578340,3271369,29,26,Drôme,75
+147,33- Psychiatrie,26,3236743,202208,31,26,Drôme,75
+148,02- Anesthésie-réanimation chirurgicale,29,13471345,67986,41,29,Finistère,134
+149,03- Pathologie cardio-vasculaire,29,11004132,10514,53,29,Finistère,134
+150,04- Chirurgie générale,29,2922175,474621,16,29,Finistère,134
+151,16- Chirurgie urologique,29,2735470,116805,14,29,Finistère,134
+152,41- Chirurgie orthopédique et traumatologie,29,7335927,1663229,31,29,Finistère,134
+153,05- Dermato-vénéréologie,29,5843354,202065,42,29,Finistère,134
+154,06- Radiodiagnostic et imagerie médicale,29,26467783,33130,57,29,Finistère,134
+155,Women,29,7575783,957756,43,29,Finistère,134
+156,08- Gastro-entérologie et hépatologie,29,7384631,14013,36,29,Finistère,134
+157,11- Oto-rhino-laryngologie,29,4691288,144737,20,29,Finistère,134
+158,Children,29,3229400,12054,30,29,Finistère,134
+159,13- Pneumologie,29,2991244,1146,15,29,Finistère,134
+160,14- Rhumatologie,29,4478365,123074,25,29,Finistère,134
+161,15- Ophtalmologie,29,21180564,3072902,64,29,Finistère,134
+162,32- Neurologie,29,1654875,53498,12,29,Finistère,134
+163,33- Psychiatrie,29,8988684,174525,65,29,Finistère,134
+164,02- Anesthésie-réanimation chirurgicale,30,13350169,2633316,46,30,Gard,125
+165,03- Pathologie cardio-vasculaire,30,13620254,48401,51,30,Gard,125
+166,16- Chirurgie urologique,30,2199079,635081,12,30,Gard,125
+167,41- Chirurgie orthopédique et traumatologie,30,6132713,3000369,25,30,Gard,125
+168,05- Dermato-vénéréologie,30,4327841,1227860,34,30,Gard,125
+169,06- Radiodiagnostic et imagerie médicale,30,36161256,39727,70,30,Gard,125
+170,Women,30,5850846,1757127,35,30,Gard,125
+171,08- Gastro-entérologie et hépatologie,30,5692616,476249,26,30,Gard,125
+172,11- Oto-rhino-laryngologie,30,3355333,721747,20,30,Gard,125
+173,Children,30,3233645,678897,25,30,Gard,125
+174,13- Pneumologie,30,3595199,1684,14,30,Gard,125
+175,14- Rhumatologie,30,3840622,504267,21,30,Gard,125
+176,15- Ophtalmologie,30,14533963,3945001,46,30,Gard,125
+177,33- Psychiatrie,30,8498031,221917,54,30,Gard,125
+178,02- Anesthésie-réanimation chirurgicale,31,41094119,2133716,147,31,Haute-Garonne,212
+179,03- Pathologie cardio-vasculaire,31,41291489,87236,120,31,Haute-Garonne,212
+180,46- Chirurgie plastique reconstructrice et esthétique,31,2085080,2646897,21,31,Haute-Garonne,212
+181,47- Chirurgie thoracique et cardio-vasculaire,31,4931340,49127,13,31,Haute-Garonne,212
+182,49- Chirurgie viscérale et digestive,31,3666909,934808,13,31,Haute-Garonne,212
+183,04- Chirurgie générale,31,7729494,1813340,35,31,Haute-Garonne,212
+184,10- Neurochirurgie,31,4171128,2033265,12,31,Haute-Garonne,212
+185,16- Chirurgie urologique,31,8202743,1894356,30,31,Haute-Garonne,212
+186,41- Chirurgie orthopédique et traumatologie,31,20843277,11272223,75,31,Haute-Garonne,212
+187,05- Dermato-vénéréologie,31,12592845,264011,103,31,Haute-Garonne,212
+188,72- Médecine nucléaire,31,9734505,3225,15,31,Haute-Garonne,212
+189,06- Radiodiagnostic et imagerie médicale,31,72170332,65369,129,31,Haute-Garonne,212
+190,Women,31,6337416,507043,59,31,Haute-Garonne,212
+191,Women,31,16807242,6991962,76,31,Haute-Garonne,212
+192,08- Gastro-entérologie et hépatologie,31,13850977,1134044,58,31,Haute-Garonne,212
+193,11- Oto-rhino-laryngologie,31,11559748,3730654,60,31,Haute-Garonne,212
+194,Children,31,10977612,628429,89,31,Haute-Garonne,212
+195,13- Pneumologie,31,8251347,15621,39,31,Haute-Garonne,212
+196,14- Rhumatologie,31,8504428,377567,51,31,Haute-Garonne,212
+197,15- Ophtalmologie,31,31620762,8749313,112,31,Haute-Garonne,212
+198,18- Stomatologie,31,1816100,1474270,17,31,Haute-Garonne,212
+199,31- Médecine Physique et de Réadaptation,31,1654574,2745,15,31,Haute-Garonne,212
+200,32- Neurologie,31,5761892,144637,26,31,Haute-Garonne,212
+201,33- Psychiatrie,31,25557522,749479,203,31,Haute-Garonne,212
+202,17- Neuropsychiatrie,31,1071922,64380,11,31,Haute-Garonne,212
+203,35- Néphrologie,31,4200714,229,12,31,Haute-Garonne,212
+204,37- Anatomo-cyto-pathologie,31,13333369,5717,30,31,Haute-Garonne,212
+205,42- Endocrinologie et métabolisme,31,3674040,346132,35,31,Haute-Garonne,212
+206,38- Médecins biologistes,31,37592,159,17,31,Haute-Garonne,212
+207,02- Anesthésie-réanimation chirurgicale,33,37082208,15378972,136,33,Gironde,155
+208,03- Pathologie cardio-vasculaire,33,41014832,2285650,149,33,Gironde,155
+209,46- Chirurgie plastique reconstructrice et esthétique,33,2354198,2317269,23,33,Gironde,155
+210,47- Chirurgie thoracique et cardio-vasculaire,33,4215168,331534,12,33,Gironde,155
+211,49- Chirurgie viscérale et digestive,33,2344981,1630161,14,33,Gironde,155
+212,04- Chirurgie générale,33,6617787,3256466,35,33,Gironde,155
+213,16- Chirurgie urologique,33,6314627,4616276,28,33,Gironde,155
+214,41- Chirurgie orthopédique et traumatologie,33,22714999,16259507,86,33,Gironde,155
+215,05- Dermato-vénéréologie,33,14102294,1630381,108,33,Gironde,155
+216,06- Radiodiagnostic et imagerie médicale,33,80570468,1795294,192,33,Gironde,155
+217,Women,33,8236957,1435364,74,33,Gironde,155
+218,Women,33,13473270,5761012,93,33,Gironde,155
+219,08- Gastro-entérologie et hépatologie,33,10870844,2828226,56,33,Gironde,155
+220,11- Oto-rhino-laryngologie,33,11106675,3749559,65,33,Gironde,155
+221,Children,33,8700008,1447934,78,33,Gironde,155
+222,13- Pneumologie,33,6197583,660312,28,33,Gironde,155
+223,14- Rhumatologie,33,6577798,1182386,35,33,Gironde,155
+224,15- Ophtalmologie,33,42262175,10575979,145,33,Gironde,155
+225,45- Chirurgie maxillo-faciale et stomatologie,33,3068995,2468983,11,33,Gironde,155
+226,31- Médecine Physique et de Réadaptation,33,6001846,761250,32,33,Gironde,155
+227,32- Neurologie,33,4166790,151645,21,33,Gironde,155
+228,33- Psychiatrie,33,26462896,2535441,282,33,Gironde,155
+229,35- Néphrologie,33,4874193,506,19,33,Gironde,155
+230,37- Anatomo-cyto-pathologie,33,11722052,2079076,22,33,Gironde,155
+231,42- Endocrinologie et métabolisme,33,2567688,719235,26,33,Gironde,155
+232,38- Médecins biologistes,33,64638,0,17,33,Gironde,155
+233,02- Anesthésie-réanimation chirurgicale,34,31646271,5209272,102,34,Hérault,184
+234,03- Pathologie cardio-vasculaire,34,25509487,139951,103,34,Hérault,184
+235,46- Chirurgie plastique reconstructrice et esthétique,34,1463915,1882660,22,34,Hérault,184
+236,49- Chirurgie viscérale et digestive,34,4079803,1406458,16,34,Hérault,184
+237,04- Chirurgie générale,34,4200310,1180693,25,34,Hérault,184
+238,16- Chirurgie urologique,34,5956532,869607,23,34,Hérault,184
+239,41- Chirurgie orthopédique et traumatologie,34,18587990,11064277,68,34,Hérault,184
+240,05- Dermato-vénéréologie,34,8394991,1169518,72,34,Hérault,184
+241,06- Radiodiagnostic et imagerie médicale,34,58523378,25525,121,34,Hérault,184
+242,Women,34,2357969,352554,19,34,Hérault,184
+243,Women,34,15937466,5487667,81,34,Hérault,184
+244,08- Gastro-entérologie et hépatologie,34,10855549,839135,57,34,Hérault,184
+245,09- Médecine interne,34,1433620,29208,11,34,Hérault,184
+246,11- Oto-rhino-laryngologie,34,12950066,1641763,55,34,Hérault,184
+247,Children,34,8146127,620366,73,34,Hérault,184
+248,13- Pneumologie,34,9435256,13222,43,34,Hérault,184
+249,14- Rhumatologie,34,8527801,1247952,54,34,Hérault,184
+250,15- Ophtalmologie,34,32083492,6994532,109,34,Hérault,184
+251,18- Stomatologie,34,1975216,1307357,14,34,Hérault,184
+252,31- Médecine Physique et de Réadaptation,34,3001217,295712,24,34,Hérault,184
+253,32- Neurologie,34,4236653,87835,24,34,Hérault,184
+254,33- Psychiatrie,34,23125672,553907,164,34,Hérault,184
+255,35- Néphrologie,34,3584984,186,13,34,Hérault,184
+256,37- Anatomo-cyto-pathologie,34,8897146,2626,12,34,Hérault,184
+257,42- Endocrinologie et métabolisme,34,2870532,429643,31,34,Hérault,184
+258,38- Médecins biologistes,34,26551,29,19,34,Hérault,184
+259,02- Anesthésie-réanimation chirurgicale,35,15056466,319978,55,35,Ille-et-Vilaine,151
+260,03- Pathologie cardio-vasculaire,35,13197350,63648,64,35,Ille-et-Vilaine,151
+261,49- Chirurgie viscérale et digestive,35,3276566,1144921,17,35,Ille-et-Vilaine,151
+262,16- Chirurgie urologique,35,3654912,971373,17,35,Ille-et-Vilaine,151
+263,41- Chirurgie orthopédique et traumatologie,35,11830332,4469723,40,35,Ille-et-Vilaine,151
+264,05- Dermato-vénéréologie,35,7601909,546166,52,35,Ille-et-Vilaine,151
+265,06- Radiodiagnostic et imagerie médicale,35,36406721,9448,85,35,Ille-et-Vilaine,151
+266,Women,35,2448161,126603,17,35,Ille-et-Vilaine,151
+267,Women,35,8568549,1359974,47,35,Ille-et-Vilaine,151
+268,08- Gastro-entérologie et hépatologie,35,5726566,3324,28,35,Ille-et-Vilaine,151
+269,11- Oto-rhino-laryngologie,35,5954064,702684,28,35,Ille-et-Vilaine,151
+270,Children,35,4691707,36147,42,35,Ille-et-Vilaine,151
+271,13- Pneumologie,35,3591410,14686,16,35,Ille-et-Vilaine,151
+272,14- Rhumatologie,35,5001041,184522,26,35,Ille-et-Vilaine,151
+273,15- Ophtalmologie,35,21210546,3336253,63,35,Ille-et-Vilaine,151
+274,32- Neurologie,35,2101827,116091,15,35,Ille-et-Vilaine,151
+275,33- Psychiatrie,35,10645917,548346,77,35,Ille-et-Vilaine,151
+276,37- Anatomo-cyto-pathologie,35,7662526,376657,17,35,Ille-et-Vilaine,151
+277,02- Anesthésie-réanimation chirurgicale,37,12077795,2076675,29,37,Indre-et-Loire,97
+278,03- Pathologie cardio-vasculaire,37,15568915,57041,50,37,Indre-et-Loire,97
+279,16- Chirurgie urologique,37,2200131,685358,11,37,Indre-et-Loire,97
+280,41- Chirurgie orthopédique et traumatologie,37,6085977,2710869,25,37,Indre-et-Loire,97
+281,05- Dermato-vénéréologie,37,4273934,445409,36,37,Indre-et-Loire,97
+282,06- Radiodiagnostic et imagerie médicale,37,26141768,2006731,58,37,Indre-et-Loire,97
+283,Women,37,5166647,1104320,28,37,Indre-et-Loire,97
+284,08- Gastro-entérologie et hépatologie,37,5019097,61836,22,37,Indre-et-Loire,97
+285,11- Oto-rhino-laryngologie,37,3504834,461885,18,37,Indre-et-Loire,97
+286,Children,37,3188070,112238,30,37,Indre-et-Loire,97
+287,14- Rhumatologie,37,2854342,206396,18,37,Indre-et-Loire,97
+288,15- Ophtalmologie,37,12769728,5428585,46,37,Indre-et-Loire,97
+289,33- Psychiatrie,37,8773794,582331,62,37,Indre-et-Loire,97
+290,02- Anesthésie-réanimation chirurgicale,38,13904111,5103392,67,38,Isère,168
+291,03- Pathologie cardio-vasculaire,38,16409134,1090725,72,38,Isère,168
+292,46- Chirurgie plastique reconstructrice et esthétique,38,969775,1153910,12,38,Isère,168
+293,04- Chirurgie générale,38,2841531,1599327,17,38,Isère,168
+294,16- Chirurgie urologique,38,2963243,2195353,13,38,Isère,168
+295,41- Chirurgie orthopédique et traumatologie,38,8013093,6067598,43,38,Isère,168
+296,05- Dermato-vénéréologie,38,7073184,1480925,58,38,Isère,168
+297,06- Radiodiagnostic et imagerie médicale,38,54796637,3107270,108,38,Isère,168
+298,Women,38,3232445,597682,29,38,Isère,168
+299,Women,38,9910043,3895875,52,38,Isère,168
+300,08- Gastro-entérologie et hépatologie,38,7761541,2258239,43,38,Isère,168
+301,11- Oto-rhino-laryngologie,38,5413649,1403477,31,38,Isère,168
+302,Children,38,6038655,452856,53,38,Isère,168
+303,13- Pneumologie,38,6400851,405693,33,38,Isère,168
+304,14- Rhumatologie,38,5406009,2068961,42,38,Isère,168
+305,15- Ophtalmologie,38,23697756,8751000,80,38,Isère,168
+306,32- Neurologie,38,2647134,79880,13,38,Isère,168
+307,33- Psychiatrie,38,13747296,1249097,140,38,Isère,168
+308,37- Anatomo-cyto-pathologie,38,6380716,133488,16,38,Isère,168
+309,42- Endocrinologie et métabolisme,38,1434382,374059,16,38,Isère,168
+310,38- Médecins biologistes,38,355350,10,24,38,Isère,168
+311,02- Anesthésie-réanimation chirurgicale,40,3566909,850367,16,40,Landes,43
+312,03- Pathologie cardio-vasculaire,40,6301999,194990,25,40,Landes,43
+313,41- Chirurgie orthopédique et traumatologie,40,3137518,1143491,15,40,Landes,43
+314,05- Dermato-vénéréologie,40,1690360,340056,12,40,Landes,43
+315,06- Radiodiagnostic et imagerie médicale,40,13996906,89690,32,40,Landes,43
+316,Women,40,2328638,330463,15,40,Landes,43
+317,08- Gastro-entérologie et hépatologie,40,1895774,117874,14,40,Landes,43
+318,11- Oto-rhino-laryngologie,40,3141670,520755,14,40,Landes,43
+319,15- Ophtalmologie,40,6864024,2281268,29,40,Landes,43
+320,33- Psychiatrie,40,2760880,32452,18,40,Landes,43
+321,02- Anesthésie-réanimation chirurgicale,41,3814055,776,11,41,Loir-et-Cher,52
+322,03- Pathologie cardio-vasculaire,41,3273301,1114,14,41,Loir-et-Cher,52
+323,06- Radiodiagnostic et imagerie médicale,41,10007697,19033,19,41,Loir-et-Cher,52
+324,15- Ophtalmologie,41,5212305,853567,21,41,Loir-et-Cher,52
+325,33- Psychiatrie,41,3663213,147063,31,41,Loir-et-Cher,52
+326,02- Anesthésie-réanimation chirurgicale,42,11187022,2778730,38,42,Loire,158
+327,03- Pathologie cardio-vasculaire,42,11193075,74409,50,42,Loire,158
+328,04- Chirurgie générale,42,3133661,1350786,13,42,Loire,158
+329,41- Chirurgie orthopédique et traumatologie,42,5287499,2857017,21,42,Loire,158
+330,05- Dermato-vénéréologie,42,3883122,1005526,28,42,Loire,158
+331,06- Radiodiagnostic et imagerie médicale,42,30581922,139166,51,42,Loire,158
+332,Women,42,5717898,2166319,36,42,Loire,158
+333,08- Gastro-entérologie et hépatologie,42,4669001,431254,21,42,Loire,158
+334,11- Oto-rhino-laryngologie,42,5240660,1025476,23,42,Loire,158
+335,Children,42,3254460,203879,24,42,Loire,158
+336,14- Rhumatologie,42,2901816,294898,19,42,Loire,158
+337,15- Ophtalmologie,42,11663447,2893929,43,42,Loire,158
+338,33- Psychiatrie,42,7928747,636666,55,42,Loire,158
+339,37- Anatomo-cyto-pathologie,42,4324592,78794,11,42,Loire,158
+340,02- Anesthésie-réanimation chirurgicale,44,32967781,1725757,106,44,Loire-Atlantique,198
+341,03- Pathologie cardio-vasculaire,44,24172324,211141,88,44,Loire-Atlantique,198
+342,46- Chirurgie plastique reconstructrice et esthétique,44,1640349,1336986,16,44,Loire-Atlantique,198
+343,48- Chirurgie vasculaire,44,2463899,296482,12,44,Loire-Atlantique,198
+344,04- Chirurgie générale,44,4092661,525905,12,44,Loire-Atlantique,198
+345,16- Chirurgie urologique,44,5244789,2263732,18,44,Loire-Atlantique,198
+346,41- Chirurgie orthopédique et traumatologie,44,20246232,5520083,57,44,Loire-Atlantique,198
+347,05- Dermato-vénéréologie,44,8636530,915786,57,44,Loire-Atlantique,198
+348,72- Médecine nucléaire,44,6144093,2137,11,44,Loire-Atlantique,198
+349,06- Radiodiagnostic et imagerie médicale,44,45678716,1294553,99,44,Loire-Atlantique,198
+350,Women,44,3104672,243027,27,44,Loire-Atlantique,198
+351,Women,44,11169801,3242784,57,44,Loire-Atlantique,198
+352,08- Gastro-entérologie et hépatologie,44,12924459,216517,42,44,Loire-Atlantique,198
+353,11- Oto-rhino-laryngologie,44,8224344,1171761,38,44,Loire-Atlantique,198
+354,Children,44,5265360,474617,45,44,Loire-Atlantique,198
+355,13- Pneumologie,44,5383582,57356,24,44,Loire-Atlantique,198
+356,14- Rhumatologie,44,3505977,307955,23,44,Loire-Atlantique,198
+357,15- Ophtalmologie,44,48201196,9082899,138,44,Loire-Atlantique,198
+358,45- Chirurgie maxillo-faciale et stomatologie,44,3950099,1215165,18,44,Loire-Atlantique,198
+359,32- Neurologie,44,3393482,36428,21,44,Loire-Atlantique,198
+360,33- Psychiatrie,44,12421878,1233852,117,44,Loire-Atlantique,198
+361,37- Anatomo-cyto-pathologie,44,9511520,426030,12,44,Loire-Atlantique,198
+362,42- Endocrinologie et métabolisme,44,1943295,161927,16,44,Loire-Atlantique,198
+363,02- Anesthésie-réanimation chirurgicale,45,10840713,4836481,28,45,Loiret,98
+364,03- Pathologie cardio-vasculaire,45,11861269,700670,33,45,Loiret,98
+365,16- Chirurgie urologique,45,2675096,1265575,12,45,Loiret,98
+366,41- Chirurgie orthopédique et traumatologie,45,8293383,3422927,23,45,Loiret,98
+367,05- Dermato-vénéréologie,45,2688742,670765,18,45,Loiret,98
+368,06- Radiodiagnostic et imagerie médicale,45,24600231,1090593,47,45,Loiret,98
+369,Women,45,5031364,1935355,32,45,Loiret,98
+370,08- Gastro-entérologie et hépatologie,45,4084203,243458,19,45,Loiret,98
+371,11- Oto-rhino-laryngologie,45,2253767,798192,12,45,Loiret,98
+372,Children,45,2044283,413239,20,45,Loiret,98
+373,14- Rhumatologie,45,1354860,446426,11,45,Loiret,98
+374,15- Ophtalmologie,45,12191793,4943068,33,45,Loiret,98
+375,33- Psychiatrie,45,2461683,160518,28,45,Loiret,98
+376,38- Médecins biologistes,45,47896,0,12,45,Loiret,98
+377,02- Anesthésie-réanimation chirurgicale,47,4694830,177265,18,47,Lot-et-Garonne,62
+378,03- Pathologie cardio-vasculaire,47,6093359,19810,17,47,Lot-et-Garonne,62
+379,41- Chirurgie orthopédique et traumatologie,47,2606680,669710,12,47,Lot-et-Garonne,62
+380,06- Radiodiagnostic et imagerie médicale,47,9730262,5244,22,47,Lot-et-Garonne,62
+381,Women,47,2680991,608400,13,47,Lot-et-Garonne,62
+382,15- Ophtalmologie,47,5785602,1220122,20,47,Lot-et-Garonne,62
+383,33- Psychiatrie,47,1385034,18050,13,47,Lot-et-Garonne,62
+384,02- Anesthésie-réanimation chirurgicale,49,16076531,2439843,54,49,Maine-et-Loire,112
+385,03- Pathologie cardio-vasculaire,49,11092890,58981,38,49,Maine-et-Loire,112
+386,16- Chirurgie urologique,49,4108569,1386661,16,49,Maine-et-Loire,112
+387,41- Chirurgie orthopédique et traumatologie,49,12676437,3568113,36,49,Maine-et-Loire,112
+388,05- Dermato-vénéréologie,49,3976870,203950,31,49,Maine-et-Loire,112
+389,06- Radiodiagnostic et imagerie médicale,49,21256470,1387207,44,49,Maine-et-Loire,112
+390,Women,49,1477140,318975,13,49,Maine-et-Loire,112
+391,Women,49,5045513,2057538,30,49,Maine-et-Loire,112
+392,08- Gastro-entérologie et hépatologie,49,5583131,349051,21,49,Maine-et-Loire,112
+393,11- Oto-rhino-laryngologie,49,5316521,519922,25,49,Maine-et-Loire,112
+394,Children,49,2830829,239330,26,49,Maine-et-Loire,112
+395,14- Rhumatologie,49,2749255,901454,18,49,Maine-et-Loire,112
+396,15- Ophtalmologie,49,20594952,2572975,54,49,Maine-et-Loire,112
+397,32- Neurologie,49,2896673,8352,12,49,Maine-et-Loire,112
+398,33- Psychiatrie,49,7375701,208099,69,49,Maine-et-Loire,112
+399,02- Anesthésie-réanimation chirurgicale,50,5068736,57712,15,50,Manche,84
+400,03- Pathologie cardio-vasculaire,50,5231477,12042,17,50,Manche,84
+401,41- Chirurgie orthopédique et traumatologie,50,3397293,720898,14,50,Manche,84
+402,05- Dermato-vénéréologie,50,2840976,33170,15,50,Manche,84
+403,06- Radiodiagnostic et imagerie médicale,50,12466059,30010,24,50,Manche,84
+404,Women,50,3301915,282318,19,50,Manche,84
+405,11- Oto-rhino-laryngologie,50,2592995,372652,11,50,Manche,84
+406,14- Rhumatologie,50,3204456,124433,13,50,Manche,84
+407,15- Ophtalmologie,50,9321307,1019402,25,50,Manche,84
+408,02- Anesthésie-réanimation chirurgicale,51,12979305,3701795,35,51,Marne,70
+409,03- Pathologie cardio-vasculaire,51,10802116,21389,35,51,Marne,70
+410,04- Chirurgie générale,51,3426008,1727456,14,51,Marne,70
+411,41- Chirurgie orthopédique et traumatologie,51,6258638,3521829,20,51,Marne,70
+412,05- Dermato-vénéréologie,51,4461802,829698,26,51,Marne,70
+413,06- Radiodiagnostic et imagerie médicale,51,22696333,1464289,48,51,Marne,70
+414,Women,51,10207023,1524651,35,51,Marne,70
+415,08- Gastro-entérologie et hépatologie,51,5703717,1239386,23,51,Marne,70
+416,11- Oto-rhino-laryngologie,51,2541744,621792,11,51,Marne,70
+417,Children,51,2407939,166411,15,51,Marne,70
+418,13- Pneumologie,51,3722457,108800,14,51,Marne,70
+419,14- Rhumatologie,51,3451893,1118914,15,51,Marne,70
+420,15- Ophtalmologie,51,8469359,4620677,33,51,Marne,70
+421,33- Psychiatrie,51,4420933,1198051,37,51,Marne,70
+422,02- Anesthésie-réanimation chirurgicale,54,15891197,3034021,53,54,Meurthe-et-Moselle,139
+423,03- Pathologie cardio-vasculaire,54,25622633,69433,59,54,Meurthe-et-Moselle,139
+424,04- Chirurgie générale,54,4893743,2594465,21,54,Meurthe-et-Moselle,139
+425,41- Chirurgie orthopédique et traumatologie,54,10234290,5018278,34,54,Meurthe-et-Moselle,139
+426,05- Dermato-vénéréologie,54,6787892,580604,40,54,Meurthe-et-Moselle,139
+427,06- Radiodiagnostic et imagerie médicale,54,30270723,416641,63,54,Meurthe-et-Moselle,139
+428,Women,54,1494483,270999,15,54,Meurthe-et-Moselle,139
+429,Women,54,5785502,1639688,31,54,Meurthe-et-Moselle,139
+430,08- Gastro-entérologie et hépatologie,54,5113535,166011,21,54,Meurthe-et-Moselle,139
+431,11- Oto-rhino-laryngologie,54,3814870,1063651,19,54,Meurthe-et-Moselle,139
+432,Children,54,5514346,55192,36,54,Meurthe-et-Moselle,139
+433,13- Pneumologie,54,3985770,37013,14,54,Meurthe-et-Moselle,139
+434,14- Rhumatologie,54,5194809,427136,20,54,Meurthe-et-Moselle,139
+435,15- Ophtalmologie,54,16037692,4922125,55,54,Meurthe-et-Moselle,139
+436,33- Psychiatrie,54,5827107,1517259,58,54,Meurthe-et-Moselle,139
+437,02- Anesthésie-réanimation chirurgicale,56,7747408,445439,26,56,Morbihan,108
+438,03- Pathologie cardio-vasculaire,56,8693498,13116,40,56,Morbihan,108
+439,41- Chirurgie orthopédique et traumatologie,56,6649041,1205518,27,56,Morbihan,108
+440,05- Dermato-vénéréologie,56,4629835,536254,27,56,Morbihan,108
+441,06- Radiodiagnostic et imagerie médicale,56,23277296,44558,59,56,Morbihan,108
+442,Women,56,2279059,6689,16,56,Morbihan,108
+443,Women,56,4040191,877505,28,56,Morbihan,108
+444,08- Gastro-entérologie et hépatologie,56,4275761,6594,19,56,Morbihan,108
+445,11- Oto-rhino-laryngologie,56,5189350,337077,22,56,Morbihan,108
+446,Children,56,2271207,43685,22,56,Morbihan,108
+447,13- Pneumologie,56,2479342,1089,12,56,Morbihan,108
+448,14- Rhumatologie,56,3147618,124631,17,56,Morbihan,108
+449,15- Ophtalmologie,56,17457751,1853284,48,56,Morbihan,108
+450,33- Psychiatrie,56,4629572,202088,37,56,Morbihan,108
+451,02- Anesthésie-réanimation chirurgicale,57,11422598,74027,36,57,Moselle,168
+452,03- Pathologie cardio-vasculaire,57,27021487,68070,71,57,Moselle,168
+453,46- Chirurgie plastique reconstructrice et esthétique,57,1416071,590424,12,57,Moselle,168
+454,04- Chirurgie générale,57,2817901,961473,14,57,Moselle,168
+455,16- Chirurgie urologique,57,2929390,1164894,16,57,Moselle,168
+456,41- Chirurgie orthopédique et traumatologie,57,6392656,2434557,29,57,Moselle,168
+457,05- Dermato-vénéréologie,57,6285960,672427,33,57,Moselle,168
+458,06- Radiodiagnostic et imagerie médicale,57,36325714,358194,74,57,Moselle,168
+459,Women,57,3151000,248341,18,57,Moselle,168
+460,Women,57,9871738,2056896,48,57,Moselle,168
+461,08- Gastro-entérologie et hépatologie,57,5626956,44891,22,57,Moselle,168
+462,11- Oto-rhino-laryngologie,57,5664924,1022452,29,57,Moselle,168
+463,Children,57,5423511,115972,40,57,Moselle,168
+464,13- Pneumologie,57,5060805,2392,18,57,Moselle,168
+465,14- Rhumatologie,57,6459251,205904,22,57,Moselle,168
+466,15- Ophtalmologie,57,21508906,2966553,56,57,Moselle,168
+467,32- Neurologie,57,2442976,36858,13,57,Moselle,168
+468,33- Psychiatrie,57,5847861,734377,45,57,Moselle,168
+469,37- Anatomo-cyto-pathologie,57,6074096,2154,14,57,Moselle,168
+470,02- Anesthésie-réanimation chirurgicale,59,40227727,15744287,143,59,Nord,454
+471,03- Pathologie cardio-vasculaire,59,46366107,1414276,177,59,Nord,454
+472,46- Chirurgie plastique reconstructrice et esthétique,59,3413534,2895387,24,59,Nord,454
+473,49- Chirurgie viscérale et digestive,59,4195433,1858259,14,59,Nord,454
+474,04- Chirurgie générale,59,11277115,3145892,55,59,Nord,454
+475,10- Neurochirurgie,59,2713433,1983694,12,59,Nord,454
+476,16- Chirurgie urologique,59,6564796,2856518,39,59,Nord,454
+477,41- Chirurgie orthopédique et traumatologie,59,22141375,10420503,75,59,Nord,454
+478,05- Dermato-vénéréologie,59,14519526,1782004,90,59,Nord,454
+479,72- Médecine nucléaire,59,10075599,18731,17,59,Nord,454
+480,74- Oncologie radiothérapique,59,34367353,809,18,59,Nord,454
+481,06- Radiodiagnostic et imagerie médicale,59,103426594,911695,238,59,Nord,454
+482,Women,59,7596473,1364837,59,59,Nord,454
+483,Women,59,2380865,905821,14,59,Nord,454
+484,Women,59,21256010,7201068,115,59,Nord,454
+485,08- Gastro-entérologie et hépatologie,59,17782739,2264207,69,59,Nord,454
+486,09- Médecine interne,59,1353018,186786,13,59,Nord,454
+487,11- Oto-rhino-laryngologie,59,14250419,2146823,69,59,Nord,454
+488,Children,59,8574994,1175980,79,59,Nord,454
+489,13- Pneumologie,59,12060431,155104,43,59,Nord,454
+490,14- Rhumatologie,59,10499923,1422036,52,59,Nord,454
+491,15- Ophtalmologie,59,52216717,11603157,172,59,Nord,454
+492,45- Chirurgie maxillo-faciale et stomatologie,59,3305015,1595419,13,59,Nord,454
+493,18- Stomatologie,59,4933404,2910589,21,59,Nord,454
+494,32- Neurologie,59,6181040,496366,37,59,Nord,454
+495,33- Psychiatrie,59,13111097,2358477,110,59,Nord,454
+496,35- Néphrologie,59,5461665,52142,18,59,Nord,454
+497,37- Anatomo-cyto-pathologie,59,15025831,113090,21,59,Nord,454
+498,42- Endocrinologie et métabolisme,59,2071168,554665,21,59,Nord,454
+499,38- Médecins biologistes,59,110532,60,24,59,Nord,454
+500,02- Anesthésie-réanimation chirurgicale,60,4853802,869226,16,60,Oise,139
+501,03- Pathologie cardio-vasculaire,60,7957804,423311,36,60,Oise,139
+502,04- Chirurgie générale,60,2424788,761038,13,60,Oise,139
+503,16- Chirurgie urologique,60,1917531,596652,11,60,Oise,139
+504,41- Chirurgie orthopédique et traumatologie,60,3838993,1292856,17,60,Oise,139
+505,05- Dermato-vénéréologie,60,2373740,366724,14,60,Oise,139
+506,06- Radiodiagnostic et imagerie médicale,60,28040667,3311928,49,60,Oise,139
+507,Women,60,5542164,1847594,34,60,Oise,139
+508,08- Gastro-entérologie et hépatologie,60,3884182,36843,16,60,Oise,139
+509,11- Oto-rhino-laryngologie,60,2954812,1396277,15,60,Oise,139
+510,Children,60,3622574,598022,23,60,Oise,139
+511,15- Ophtalmologie,60,11060478,6749086,38,60,Oise,139
+512,33- Psychiatrie,60,2086992,269880,21,60,Oise,139
+513,02- Anesthésie-réanimation chirurgicale,62,19953743,4172469,64,62,Pas-de-Calais,221
+514,03- Pathologie cardio-vasculaire,62,26064340,52888,84,62,Pas-de-Calais,221
+515,49- Chirurgie viscérale et digestive,62,3411242,808064,14,62,Pas-de-Calais,221
+516,04- Chirurgie générale,62,6443077,1370215,26,62,Pas-de-Calais,221
+517,16- Chirurgie urologique,62,4257946,1384393,20,62,Pas-de-Calais,221
+518,41- Chirurgie orthopédique et traumatologie,62,11200212,3791045,45,62,Pas-de-Calais,221
+519,05- Dermato-vénéréologie,62,5709949,1030684,33,62,Pas-de-Calais,221
+520,72- Médecine nucléaire,62,8632339,53120,12,62,Pas-de-Calais,221
+521,06- Radiodiagnostic et imagerie médicale,62,56822772,177567,118,62,Pas-de-Calais,221
+522,Women,62,2336156,125172,15,62,Pas-de-Calais,221
+523,Women,62,8759320,1359402,51,62,Pas-de-Calais,221
+524,08- Gastro-entérologie et hépatologie,62,9492605,204257,40,62,Pas-de-Calais,221
+525,11- Oto-rhino-laryngologie,62,6098869,208078,26,62,Pas-de-Calais,221
+526,Children,62,2333913,89185,20,62,Pas-de-Calais,221
+527,13- Pneumologie,62,7817285,5208,25,62,Pas-de-Calais,221
+528,14- Rhumatologie,62,3913010,392799,21,62,Pas-de-Calais,221
+529,15- Ophtalmologie,62,18548718,4027700,52,62,Pas-de-Calais,221
+530,32- Neurologie,62,2463718,57769,14,62,Pas-de-Calais,221
+531,33- Psychiatrie,62,4358493,276891,31,62,Pas-de-Calais,221
+532,35- Néphrologie,62,1972523,211,11,62,Pas-de-Calais,221
+533,38- Médecins biologistes,62,175712,29,16,62,Pas-de-Calais,221
+534,02- Anesthésie-réanimation chirurgicale,63,11630775,234775,35,63,Puy-de-Dôme,80
+535,03- Pathologie cardio-vasculaire,63,13446421,43619,50,63,Puy-de-Dôme,80
+536,16- Chirurgie urologique,63,2716862,1249728,12,63,Puy-de-Dôme,80
+537,41- Chirurgie orthopédique et traumatologie,63,8096949,2612473,22,63,Puy-de-Dôme,80
+538,05- Dermato-vénéréologie,63,4293335,432284,31,63,Puy-de-Dôme,80
+539,06- Radiodiagnostic et imagerie médicale,63,21475673,394769,45,63,Puy-de-Dôme,80
+540,Women,63,7028351,1892893,35,63,Puy-de-Dôme,80
+541,08- Gastro-entérologie et hépatologie,63,4493873,749521,19,63,Puy-de-Dôme,80
+542,11- Oto-rhino-laryngologie,63,3160151,1026542,19,63,Puy-de-Dôme,80
+543,Children,63,3332227,182916,22,63,Puy-de-Dôme,80
+544,14- Rhumatologie,63,2875169,200518,22,63,Puy-de-Dôme,80
+545,15- Ophtalmologie,63,12552140,3151504,52,63,Puy-de-Dôme,80
+546,33- Psychiatrie,63,10122021,190894,67,63,Puy-de-Dôme,80
+547,02- Anesthésie-réanimation chirurgicale,64,16459461,4073811,76,64,Pyrénées-Atlantiques,86
+548,03- Pathologie cardio-vasculaire,64,19786179,608279,73,64,Pyrénées-Atlantiques,86
+549,04- Chirurgie générale,64,3527617,1209256,15,64,Pyrénées-Atlantiques,86
+550,16- Chirurgie urologique,64,3846497,2103860,17,64,Pyrénées-Atlantiques,86
+551,41- Chirurgie orthopédique et traumatologie,64,9481117,4113570,35,64,Pyrénées-Atlantiques,86
+552,05- Dermato-vénéréologie,64,6053722,476482,41,64,Pyrénées-Atlantiques,86
+553,06- Radiodiagnostic et imagerie médicale,64,34493289,1239129,78,64,Pyrénées-Atlantiques,86
+554,Women,64,3139051,141865,25,64,Pyrénées-Atlantiques,86
+555,Women,64,6478736,2179132,32,64,Pyrénées-Atlantiques,86
+556,08- Gastro-entérologie et hépatologie,64,5123662,749022,31,64,Pyrénées-Atlantiques,86
+557,11- Oto-rhino-laryngologie,64,5970556,881349,27,64,Pyrénées-Atlantiques,86
+558,Children,64,3506811,172629,30,64,Pyrénées-Atlantiques,86
+559,13- Pneumologie,64,5857538,66419,26,64,Pyrénées-Atlantiques,86
+560,14- Rhumatologie,64,4143540,383520,21,64,Pyrénées-Atlantiques,86
+561,15- Ophtalmologie,64,19178924,7897497,59,64,Pyrénées-Atlantiques,86
+562,32- Neurologie,64,2696711,18105,17,64,Pyrénées-Atlantiques,86
+563,33- Psychiatrie,64,8471455,394213,67,64,Pyrénées-Atlantiques,86
+564,37- Anatomo-cyto-pathologie,64,4815046,18058,11,64,Pyrénées-Atlantiques,86
+565,42- Endocrinologie et métabolisme,64,1487775,160822,12,64,Pyrénées-Atlantiques,86
+566,38- Médecins biologistes,64,36108,4,11,64,Pyrénées-Atlantiques,86
+567,02- Anesthésie-réanimation chirurgicale,66,12820327,742718,43,66,Pyrénées-Orientales,111
+568,03- Pathologie cardio-vasculaire,66,11422416,10044,40,66,Pyrénées-Orientales,111
+569,41- Chirurgie orthopédique et traumatologie,66,7454792,711710,19,66,Pyrénées-Orientales,111
+570,05- Dermato-vénéréologie,66,1836602,14100,12,66,Pyrénées-Orientales,111
+571,06- Radiodiagnostic et imagerie médicale,66,26670892,6006,53,66,Pyrénées-Orientales,111
+572,Women,66,5955954,725602,23,66,Pyrénées-Orientales,111
+573,08- Gastro-entérologie et hépatologie,66,4249592,67008,18,66,Pyrénées-Orientales,111
+574,11- Oto-rhino-laryngologie,66,3327570,334061,15,66,Pyrénées-Orientales,111
+575,Children,66,2123467,127691,18,66,Pyrénées-Orientales,111
+576,13- Pneumologie,66,3605481,5872,16,66,Pyrénées-Orientales,111
+577,14- Rhumatologie,66,3072477,119329,13,66,Pyrénées-Orientales,111
+578,15- Ophtalmologie,66,12181459,2138933,39,66,Pyrénées-Orientales,111
+579,33- Psychiatrie,66,5776205,59126,31,66,Pyrénées-Orientales,111
+580,02- Anesthésie-réanimation chirurgicale,67,14010257,11108388,49,67,Bas-Rhin,235
+581,03- Pathologie cardio-vasculaire,67,29346383,1624195,100,67,Bas-Rhin,235
+582,46- Chirurgie plastique reconstructrice et esthétique,67,555588,908228,14,67,Bas-Rhin,235
+583,49- Chirurgie viscérale et digestive,67,1911008,1703486,14,67,Bas-Rhin,235
+584,04- Chirurgie générale,67,4156781,3288507,27,67,Bas-Rhin,235
+585,16- Chirurgie urologique,67,2808958,2037710,16,67,Bas-Rhin,235
+586,41- Chirurgie orthopédique et traumatologie,67,10397631,8706804,52,67,Bas-Rhin,235
+587,05- Dermato-vénéréologie,67,10802085,2644698,73,67,Bas-Rhin,235
+588,06- Radiodiagnostic et imagerie médicale,67,53081750,320019,118,67,Bas-Rhin,235
+589,Women,67,13695714,6984958,111,67,Bas-Rhin,235
+590,08- Gastro-entérologie et hépatologie,67,9218293,2495952,48,67,Bas-Rhin,235
+591,11- Oto-rhino-laryngologie,67,7368281,2927821,52,67,Bas-Rhin,235
+592,Children,67,8716646,1399472,68,67,Bas-Rhin,235
+593,13- Pneumologie,67,6574945,584569,31,67,Bas-Rhin,235
+594,14- Rhumatologie,67,6876750,2734876,36,67,Bas-Rhin,235
+595,15- Ophtalmologie,67,27244523,14897358,99,67,Bas-Rhin,235
+596,31- Médecine Physique et de Réadaptation,67,3090304,520991,17,67,Bas-Rhin,235
+597,32- Neurologie,67,3685071,293071,16,67,Bas-Rhin,235
+598,33- Psychiatrie,67,16306385,3831622,151,67,Bas-Rhin,235
+599,37- Anatomo-cyto-pathologie,67,7063587,161019,13,67,Bas-Rhin,235
+600,42- Endocrinologie et métabolisme,67,1827143,738269,21,67,Bas-Rhin,235
+601,02- Anesthésie-réanimation chirurgicale,68,9207467,4708332,45,68,Haut-Rhin,215
+602,03- Pathologie cardio-vasculaire,68,19028174,185030,62,68,Haut-Rhin,215
+603,04- Chirurgie générale,68,2454960,2299712,13,68,Haut-Rhin,215
+604,16- Chirurgie urologique,68,2491050,2207670,11,68,Haut-Rhin,215
+605,41- Chirurgie orthopédique et traumatologie,68,5187702,3088929,27,68,Haut-Rhin,215
+606,05- Dermato-vénéréologie,68,5014963,1604155,27,68,Haut-Rhin,215
+607,06- Radiodiagnostic et imagerie médicale,68,29831427,1196741,65,68,Haut-Rhin,215
+608,Women,68,10834985,6436819,64,68,Haut-Rhin,215
+609,08- Gastro-entérologie et hépatologie,68,4057094,575494,22,68,Haut-Rhin,215
+610,11- Oto-rhino-laryngologie,68,4891374,1909084,25,68,Haut-Rhin,215
+611,Children,68,4375762,941255,32,68,Haut-Rhin,215
+612,13- Pneumologie,68,3262037,142517,15,68,Haut-Rhin,215
+613,14- Rhumatologie,68,2184425,622028,15,68,Haut-Rhin,215
+614,15- Ophtalmologie,68,14051101,4344654,49,68,Haut-Rhin,215
+615,33- Psychiatrie,68,4728363,1429789,49,68,Haut-Rhin,215
+616,02- Anesthésie-réanimation chirurgicale,69,45752786,37355403,189,69,Circonscription départementale du Rhône,561
+617,03- Pathologie cardio-vasculaire,69,35357145,6074279,133,69,Circonscription départementale du Rhône,561
+618,Children,69,1144890,1009134,11,69,Circonscription départementale du Rhône,561
+619,46- Chirurgie plastique reconstructrice et esthétique,69,2061309,5706489,43,69,Circonscription départementale du Rhône,561
+620,47- Chirurgie thoracique et cardio-vasculaire,69,4940038,1972584,13,69,Circonscription départementale du Rhône,561
+621,48- Chirurgie vasculaire,69,5212001,3420478,20,69,Circonscription départementale du Rhône,561
+622,49- Chirurgie viscérale et digestive,69,4816767,4356283,22,69,Circonscription départementale du Rhône,561
+623,04- Chirurgie générale,69,9251395,6809798,45,69,Circonscription départementale du Rhône,561
+624,10- Neurochirurgie,69,2918240,2854371,15,69,Circonscription départementale du Rhône,561
+625,16- Chirurgie urologique,69,8680545,6880597,45,69,Circonscription départementale du Rhône,561
+626,41- Chirurgie orthopédique et traumatologie,69,23856375,24689124,118,69,Circonscription départementale du Rhône,561
+627,05- Dermato-vénéréologie,69,10727556,5051129,92,69,Circonscription départementale du Rhône,561
+628,72- Médecine nucléaire,69,10245546,4066,16,69,Circonscription départementale du Rhône,561
+629,74- Oncologie radiothérapique,69,21493063,4029,14,69,Circonscription départementale du Rhône,561
+630,06- Radiodiagnostic et imagerie médicale,69,83040804,11813307,195,69,Circonscription départementale du Rhône,561
+631,Women,69,3137325,2675696,32,69,Circonscription départementale du Rhône,561
+632,Women,69,22314673,16562055,161,69,Circonscription départementale du Rhône,561
+633,08- Gastro-entérologie et hépatologie,69,14532074,7473921,69,69,Circonscription départementale du Rhône,561
+634,09- Médecine interne,69,1601270,523777,16,69,Circonscription départementale du Rhône,561
+635,11- Oto-rhino-laryngologie,69,9870570,4761471,63,69,Circonscription départementale du Rhône,561
+636,Children,69,14886896,3728598,118,69,Circonscription départementale du Rhône,561
+637,13- Pneumologie,69,5286288,1148476,32,69,Circonscription départementale du Rhône,561
+638,14- Rhumatologie,69,7157823,3294300,67,69,Circonscription départementale du Rhône,561
+639,15- Ophtalmologie,69,44053263,27241146,159,69,Circonscription départementale du Rhône,561
+640,45- Chirurgie maxillo-faciale et stomatologie,69,2402283,2902668,15,69,Circonscription départementale du Rhône,561
+641,18- Stomatologie,69,4728237,5667358,34,69,Circonscription départementale du Rhône,561
+642,31- Médecine Physique et de Réadaptation,69,1571957,1274845,19,69,Circonscription départementale du Rhône,561
+643,32- Neurologie,69,5844201,981274,44,69,Circonscription départementale du Rhône,561
+644,33- Psychiatrie,69,23138833,7490702,269,69,Circonscription départementale du Rhône,561
+645,35- Néphrologie,69,4742769,5021,16,69,Circonscription départementale du Rhône,561
+646,37- Anatomo-cyto-pathologie,69,17590564,324632,29,69,Circonscription départementale du Rhône,561
+647,42- Endocrinologie et métabolisme,69,2708348,1389466,37,69,Circonscription départementale du Rhône,561
+648,02- Anesthésie-réanimation chirurgicale,71,7407619,2360664,27,71,Saône-et-Loire,65
+649,03- Pathologie cardio-vasculaire,71,4744264,4285,19,71,Saône-et-Loire,65
+650,41- Chirurgie orthopédique et traumatologie,71,6511644,3077093,24,71,Saône-et-Loire,65
+651,05- Dermato-vénéréologie,71,2241842,293222,13,71,Saône-et-Loire,65
+652,06- Radiodiagnostic et imagerie médicale,71,16415891,394670,34,71,Saône-et-Loire,65
+653,Women,71,3573302,1334450,22,71,Saône-et-Loire,65
+654,08- Gastro-entérologie et hépatologie,71,2308880,104253,11,71,Saône-et-Loire,65
+655,11- Oto-rhino-laryngologie,71,1948999,238324,13,71,Saône-et-Loire,65
+656,15- Ophtalmologie,71,8973492,4056986,27,71,Saône-et-Loire,65
+657,33- Psychiatrie,71,3381594,402618,29,71,Saône-et-Loire,65
+658,02- Anesthésie-réanimation chirurgicale,72,10446329,996321,27,72,Sarthe,91
+659,03- Pathologie cardio-vasculaire,72,7386355,14916,22,72,Sarthe,91
+660,16- Chirurgie urologique,72,2309807,1169021,11,72,Sarthe,91
+661,41- Chirurgie orthopédique et traumatologie,72,8201445,2727096,22,72,Sarthe,91
+662,05- Dermato-vénéréologie,72,1985732,198810,14,72,Sarthe,91
+663,06- Radiodiagnostic et imagerie médicale,72,17387269,37198,26,72,Sarthe,91
+664,Women,72,4610233,672997,25,72,Sarthe,91
+665,08- Gastro-entérologie et hépatologie,72,2968625,94545,13,72,Sarthe,91
+666,11- Oto-rhino-laryngologie,72,3585591,499920,16,72,Sarthe,91
+667,Children,72,2583536,5488,12,72,Sarthe,91
+668,15- Ophtalmologie,72,8369112,2785992,24,72,Sarthe,91
+669,33- Psychiatrie,72,3612901,58069,24,72,Sarthe,91
+670,02- Anesthésie-réanimation chirurgicale,73,5420136,2121436,28,73,Savoie,70
+671,03- Pathologie cardio-vasculaire,73,5432032,30365,21,73,Savoie,70
+672,41- Chirurgie orthopédique et traumatologie,73,4898355,2345617,23,73,Savoie,70
+673,05- Dermato-vénéréologie,73,1960158,182024,14,73,Savoie,70
+674,06- Radiodiagnostic et imagerie médicale,73,14482684,891376,37,73,Savoie,70
+675,Women,73,3244847,1097442,20,73,Savoie,70
+676,11- Oto-rhino-laryngologie,73,3290930,380653,19,73,Savoie,70
+677,Children,73,1559578,126329,12,73,Savoie,70
+678,14- Rhumatologie,73,3053779,120773,20,73,Savoie,70
+679,15- Ophtalmologie,73,9593614,3487547,30,73,Savoie,70
+680,33- Psychiatrie,73,2324930,290413,29,73,Savoie,70
+681,02- Anesthésie-réanimation chirurgicale,74,9441000,5712954,37,74,Haute-Savoie,175
+682,03- Pathologie cardio-vasculaire,74,10471395,1122515,51,74,Haute-Savoie,175
+683,04- Chirurgie générale,74,2057132,738055,13,74,Haute-Savoie,175
+684,16- Chirurgie urologique,74,1904799,996226,12,74,Haute-Savoie,175
+685,41- Chirurgie orthopédique et traumatologie,74,7028320,4580024,32,74,Haute-Savoie,175
+686,05- Dermato-vénéréologie,74,3908031,1117277,35,74,Haute-Savoie,175
+687,06- Radiodiagnostic et imagerie médicale,74,28227232,3634544,69,74,Haute-Savoie,175
+688,Women,74,8263583,3093542,46,74,Haute-Savoie,175
+689,08- Gastro-entérologie et hépatologie,74,3600015,620799,24,74,Haute-Savoie,175
+690,11- Oto-rhino-laryngologie,74,3057565,1147707,20,74,Haute-Savoie,175
+691,Children,74,2677529,322783,26,74,Haute-Savoie,175
+692,13- Pneumologie,74,2056354,66629,15,74,Haute-Savoie,175
+693,14- Rhumatologie,74,1774899,404033,17,74,Haute-Savoie,175
+694,15- Ophtalmologie,74,12366034,5399829,45,74,Haute-Savoie,175
+695,32- Neurologie,74,2224758,32412,11,74,Haute-Savoie,175
+696,33- Psychiatrie,74,6823081,2126145,68,74,Haute-Savoie,175
+697,02- Anesthésie-réanimation chirurgicale,75,42666568,38151180,197,75,Paris,21014
+698,03- Pathologie cardio-vasculaire,75,47327701,13953576,301,75,Paris,21014
+699,46- Chirurgie plastique reconstructrice et esthétique,75,9137896,23120541,189,75,Paris,21014
+700,47- Chirurgie thoracique et cardio-vasculaire,75,2922811,606037,13,75,Paris,21014
+701,48- Chirurgie vasculaire,75,3232787,3369928,23,75,Paris,21014
+702,49- Chirurgie viscérale et digestive,75,3881807,5104781,37,75,Paris,21014
+703,04- Chirurgie générale,75,13218583,16092509,137,75,Paris,21014
+704,10- Neurochirurgie,75,3692792,5705020,23,75,Paris,21014
+705,16- Chirurgie urologique,75,6201791,10641966,54,75,Paris,21014
+706,41- Chirurgie orthopédique et traumatologie,75,42721848,51469254,217,75,Paris,21014
+707,05- Dermato-vénéréologie,75,24238086,25351156,318,75,Paris,21014
+708,06- Radiodiagnostic et imagerie médicale,75,128525446,69397624,336,75,Paris,21014
+709,Women,75,8942034,13256050,153,75,Paris,21014
+710,Women,75,3746240,3912556,37,75,Paris,21014
+711,Women,75,31609598,51167473,320,75,Paris,21014
+712,08- Gastro-entérologie et hépatologie,75,20084411,13202423,148,75,Paris,21014
+713,73- Oncologie médicale,75,1137375,575184,13,75,Paris,21014
+714,09- Médecine interne,75,2472905,4284157,59,75,Paris,21014
+715,11- Oto-rhino-laryngologie,75,17808452,18786484,172,75,Paris,21014
+716,Children,75,17782303,14953737,204,75,Paris,21014
+717,13- Pneumologie,75,4517118,1551708,40,75,Paris,21014
+718,14- Rhumatologie,75,10299809,10431535,137,75,Paris,21014
+719,15- Ophtalmologie,75,70386528,73170181,398,75,Paris,21014
+720,45- Chirurgie maxillo-faciale et stomatologie,75,1740462,2757788,16,75,Paris,21014
+721,18- Stomatologie,75,7634186,12348624,92,75,Paris,21014
+722,31- Médecine Physique et de Réadaptation,75,2657679,3807721,35,75,Paris,21014
+723,32- Neurologie,75,6813344,2818500,62,75,Paris,21014
+724,Children,75,512420,459298,11,75,Paris,21014
+725,33- Psychiatrie,75,78020658,58823734,1284,75,Paris,21014
+726,17- Neuropsychiatrie,75,951524,449496,32,75,Paris,21014
+727,35- Néphrologie,75,4141843,98796,22,75,Paris,21014
+728,37- Anatomo-cyto-pathologie,75,30454734,2382423,57,75,Paris,21014
+729,42- Endocrinologie et métabolisme,75,4415463,5763869,85,75,Paris,21014
+730,Old,75,299586,512060,11,75,Paris,21014
+731,38- Médecins biologistes,75,426881,13759,44,75,Paris,21014
+732,02- Anesthésie-réanimation chirurgicale,76,23112330,2587919,66,76,Seine-Maritime,200
+733,03- Pathologie cardio-vasculaire,76,21388667,588029,76,76,Seine-Maritime,200
+734,49- Chirurgie viscérale et digestive,76,3648083,1265288,13,76,Seine-Maritime,200
+735,04- Chirurgie générale,76,4858208,1747936,24,76,Seine-Maritime,200
+736,16- Chirurgie urologique,76,5192944,1253900,20,76,Seine-Maritime,200
+737,41- Chirurgie orthopédique et traumatologie,76,14275921,4841666,53,76,Seine-Maritime,200
+738,05- Dermato-vénéréologie,76,6976113,933209,50,76,Seine-Maritime,200
+739,06- Radiodiagnostic et imagerie médicale,76,52435680,263997,103,76,Seine-Maritime,200
+740,Women,76,3940535,458548,29,76,Seine-Maritime,200
+741,Women,76,10297430,2063959,46,76,Seine-Maritime,200
+742,08- Gastro-entérologie et hépatologie,76,9081451,18934,35,76,Seine-Maritime,200
+743,11- Oto-rhino-laryngologie,76,10654347,1222116,44,76,Seine-Maritime,200
+744,Children,76,5110173,683894,49,76,Seine-Maritime,200
+745,13- Pneumologie,76,4913937,124003,25,76,Seine-Maritime,200
+746,14- Rhumatologie,76,4777091,841049,29,76,Seine-Maritime,200
+747,15- Ophtalmologie,76,25745990,3488366,73,76,Seine-Maritime,200
+748,18- Stomatologie,76,2973210,1491999,15,76,Seine-Maritime,200
+749,32- Neurologie,76,5246813,96877,21,76,Seine-Maritime,200
+750,33- Psychiatrie,76,9290675,1321838,69,76,Seine-Maritime,200
+751,37- Anatomo-cyto-pathologie,76,7985403,11475,14,76,Seine-Maritime,200
+752,42- Endocrinologie et métabolisme,76,1055451,152852,11,76,Seine-Maritime,200
+753,02- Anesthésie-réanimation chirurgicale,77,11784211,2666222,37,77,Seine-et-Marne,235
+754,03- Pathologie cardio-vasculaire,77,20277897,1413919,76,77,Seine-et-Marne,235
+755,04- Chirurgie générale,77,3989882,1331884,19,77,Seine-et-Marne,235
+756,16- Chirurgie urologique,77,3560592,1755328,19,77,Seine-et-Marne,235
+757,41- Chirurgie orthopédique et traumatologie,77,8160067,5146300,34,77,Seine-et-Marne,235
+758,05- Dermato-vénéréologie,77,4298666,1675867,36,77,Seine-et-Marne,235
+759,06- Radiodiagnostic et imagerie médicale,77,45243067,9484583,97,77,Seine-et-Marne,235
+760,Women,77,1693083,1073881,18,77,Seine-et-Marne,235
+761,Women,77,2751101,1218214,18,77,Seine-et-Marne,235
+762,Women,77,7645290,3763763,46,77,Seine-et-Marne,235
+763,08- Gastro-entérologie et hépatologie,77,6009353,861991,27,77,Seine-et-Marne,235
+764,11- Oto-rhino-laryngologie,77,5884243,1983205,35,77,Seine-et-Marne,235
+765,Children,77,6732602,2175557,56,77,Seine-et-Marne,235
+766,13- Pneumologie,77,3510901,469956,17,77,Seine-et-Marne,235
+767,14- Rhumatologie,77,2967616,713974,25,77,Seine-et-Marne,235
+768,15- Ophtalmologie,77,19062877,8793564,70,77,Seine-et-Marne,235
+769,18- Stomatologie,77,2043394,1018962,12,77,Seine-et-Marne,235
+770,33- Psychiatrie,77,11451456,1630054,66,77,Seine-et-Marne,235
+771,35- Néphrologie,77,2733503,1319,13,77,Seine-et-Marne,235
+772,38- Médecins biologistes,77,120130,1,13,77,Seine-et-Marne,235
+773,02- Anesthésie-réanimation chirurgicale,78,19380435,7285776,70,78,Yvelines,625
+774,03- Pathologie cardio-vasculaire,78,25873240,3414797,118,78,Yvelines,625
+775,04- Chirurgie générale,78,4890602,3441395,21,78,Yvelines,625
+776,16- Chirurgie urologique,78,3679394,3110942,18,78,Yvelines,625
+777,41- Chirurgie orthopédique et traumatologie,78,12910934,7892421,48,78,Yvelines,625
+778,05- Dermato-vénéréologie,78,8803339,5222933,73,78,Yvelines,625
+779,06- Radiodiagnostic et imagerie médicale,78,52769331,12361116,112,78,Yvelines,625
+780,Women,78,2360683,2046274,27,78,Yvelines,625
+781,Women,78,13933440,13762176,95,78,Yvelines,625
+782,08- Gastro-entérologie et hépatologie,78,10234235,2486183,47,78,Yvelines,625
+783,11- Oto-rhino-laryngologie,78,9375809,4950112,56,78,Yvelines,625
+784,Children,78,10400493,4119300,87,78,Yvelines,625
+785,13- Pneumologie,78,2533546,617858,18,78,Yvelines,625
+786,14- Rhumatologie,78,3666965,2339587,40,78,Yvelines,625
+787,15- Ophtalmologie,78,23668415,13643052,122,78,Yvelines,625
+788,18- Stomatologie,78,3056478,4476614,21,78,Yvelines,625
+789,32- Neurologie,78,3158110,774536,22,78,Yvelines,625
+790,33- Psychiatrie,78,9712926,4458341,113,78,Yvelines,625
+791,42- Endocrinologie et métabolisme,78,1700023,1191648,26,78,Yvelines,625
+792,38- Médecins biologistes,78,40096,32,15,78,Yvelines,625
+793,02- Anesthésie-réanimation chirurgicale,80,11620869,2739861,38,80,Somme,93
+794,03- Pathologie cardio-vasculaire,80,8322434,9007,36,80,Somme,93
+795,04- Chirurgie générale,80,3060406,602391,11,80,Somme,93
+796,41- Chirurgie orthopédique et traumatologie,80,4028685,1478889,20,80,Somme,93
+797,05- Dermato-vénéréologie,80,3502270,831797,18,80,Somme,93
+798,06- Radiodiagnostic et imagerie médicale,80,18144909,437845,35,80,Somme,93
+799,Women,80,1496965,48096,12,80,Somme,93
+800,Women,80,4961904,546618,20,80,Somme,93
+801,08- Gastro-entérologie et hépatologie,80,5640506,97242,22,80,Somme,93
+802,11- Oto-rhino-laryngologie,80,3608365,1115101,13,80,Somme,93
+803,Children,80,2021047,14269,16,80,Somme,93
+804,13- Pneumologie,80,3745821,2352,13,80,Somme,93
+805,15- Ophtalmologie,80,13412097,2846112,36,80,Somme,93
+806,33- Psychiatrie,80,2958106,57270,27,80,Somme,93
+807,02- Anesthésie-réanimation chirurgicale,81,6629650,2732,17,81,Tarn,66
+808,03- Pathologie cardio-vasculaire,81,7845345,1226,24,81,Tarn,66
+809,41- Chirurgie orthopédique et traumatologie,81,3837092,904228,16,81,Tarn,66
+810,05- Dermato-vénéréologie,81,2172170,41947,13,81,Tarn,66
+811,06- Radiodiagnostic et imagerie médicale,81,12989766,2842,29,81,Tarn,66
+812,Women,81,2200112,268373,15,81,Tarn,66
+813,08- Gastro-entérologie et hépatologie,81,3311130,1646,14,81,Tarn,66
+814,11- Oto-rhino-laryngologie,81,2505182,99179,11,81,Tarn,66
+815,Children,81,1360916,5679,11,81,Tarn,66
+816,15- Ophtalmologie,81,7718473,442300,19,81,Tarn,66
+817,33- Psychiatrie,81,1561622,25655,15,81,Tarn,66
+818,02- Anesthésie-réanimation chirurgicale,82,5740738,49856,17,82,Tarn-et-Garonne,66
+819,03- Pathologie cardio-vasculaire,82,7895783,813,24,82,Tarn-et-Garonne,66
+820,06- Radiodiagnostic et imagerie médicale,82,7625186,1809,15,82,Tarn-et-Garonne,66
+821,Women,82,2856443,625690,15,82,Tarn-et-Garonne,66
+822,15- Ophtalmologie,82,8229885,2156657,21,82,Tarn-et-Garonne,66
+823,02- Anesthésie-réanimation chirurgicale,83,19253526,2800333,73,83,Var,172
+824,03- Pathologie cardio-vasculaire,83,32783302,1071660,107,83,Var,172
+825,46- Chirurgie plastique reconstructrice et esthétique,83,1137317,949312,15,83,Var,172
+826,04- Chirurgie générale,83,3832535,1359403,22,83,Var,172
+827,16- Chirurgie urologique,83,4796642,1843298,23,83,Var,172
+828,41- Chirurgie orthopédique et traumatologie,83,10108585,4828354,58,83,Var,172
+829,05- Dermato-vénéréologie,83,8942416,1963788,61,83,Var,172
+830,06- Radiodiagnostic et imagerie médicale,83,55037762,2105246,115,83,Var,172
+831,Women,83,2272573,469568,18,83,Var,172
+832,Women,83,9648056,3696737,61,83,Var,172
+833,08- Gastro-entérologie et hépatologie,83,9592688,1112517,47,83,Var,172
+834,11- Oto-rhino-laryngologie,83,9017651,1852793,50,83,Var,172
+835,Children,83,6082908,1363360,52,83,Var,172
+836,13- Pneumologie,83,5712207,90812,30,83,Var,172
+837,14- Rhumatologie,83,5124393,794482,29,83,Var,172
+838,15- Ophtalmologie,83,29584208,7279099,109,83,Var,172
+839,18- Stomatologie,83,1541072,1290342,13,83,Var,172
+840,32- Neurologie,83,3441405,93876,13,83,Var,172
+841,33- Psychiatrie,83,15085157,1510196,97,83,Var,172
+842,35- Néphrologie,83,2911636,355,12,83,Var,172
+843,37- Anatomo-cyto-pathologie,83,7622838,450095,18,83,Var,172
+844,38- Médecins biologistes,83,12998,0,11,83,Var,172
+845,02- Anesthésie-réanimation chirurgicale,84,11992744,1577259,47,84,Vaucluse,157
+846,03- Pathologie cardio-vasculaire,84,14817434,115087,51,84,Vaucluse,157
+847,46- Chirurgie plastique reconstructrice et esthétique,84,584496,846922,11,84,Vaucluse,157
+848,49- Chirurgie viscérale et digestive,84,2104581,964138,11,84,Vaucluse,157
+849,41- Chirurgie orthopédique et traumatologie,84,8870714,3535883,33,84,Vaucluse,157
+850,05- Dermato-vénéréologie,84,3335063,608227,21,84,Vaucluse,157
+851,06- Radiodiagnostic et imagerie médicale,84,24766041,64685,62,84,Vaucluse,157
+852,Women,84,6474652,2967217,39,84,Vaucluse,157
+853,08- Gastro-entérologie et hépatologie,84,4909757,344734,26,84,Vaucluse,157
+854,11- Oto-rhino-laryngologie,84,4793689,1569973,24,84,Vaucluse,157
+855,Children,84,3110332,81795,22,84,Vaucluse,157
+856,13- Pneumologie,84,2664011,22441,13,84,Vaucluse,157
+857,14- Rhumatologie,84,3522474,424049,20,84,Vaucluse,157
+858,15- Ophtalmologie,84,13864110,5805144,44,84,Vaucluse,157
+859,33- Psychiatrie,84,5084153,135846,40,84,Vaucluse,157
+860,02- Anesthésie-réanimation chirurgicale,85,6572001,573296,22,85,Vendée,97
+861,03- Pathologie cardio-vasculaire,85,4647585,157779,21,85,Vendée,97
+862,41- Chirurgie orthopédique et traumatologie,85,4989561,646769,16,85,Vendée,97
+863,05- Dermato-vénéréologie,85,2335474,46667,12,85,Vendée,97
+864,06- Radiodiagnostic et imagerie médicale,85,14165808,297873,40,85,Vendée,97
+865,Women,85,3050775,785253,18,85,Vendée,97
+866,08- Gastro-entérologie et hépatologie,85,3112337,32162,19,85,Vendée,97
+867,11- Oto-rhino-laryngologie,85,2004445,384757,12,85,Vendée,97
+868,14- Rhumatologie,85,1911262,56341,12,85,Vendée,97
+869,15- Ophtalmologie,85,16618650,2652252,37,85,Vendée,97
+870,33- Psychiatrie,85,2016860,142598,16,85,Vendée,97
+871,02- Anesthésie-réanimation chirurgicale,86,6240505,1192664,16,86,Vienne,62
+872,03- Pathologie cardio-vasculaire,86,6195080,13763,29,86,Vienne,62
+873,41- Chirurgie orthopédique et traumatologie,86,4290178,941476,18,86,Vienne,62
+874,05- Dermato-vénéréologie,86,2995358,317413,23,86,Vienne,62
+875,06- Radiodiagnostic et imagerie médicale,86,12927925,403864,22,86,Vienne,62
+876,Women,86,4290668,920280,25,86,Vienne,62
+877,11- Oto-rhino-laryngologie,86,3024617,325601,14,86,Vienne,62
+878,Children,86,1403011,21970,12,86,Vienne,62
+879,15- Ophtalmologie,86,7584197,1748984,26,86,Vienne,62
+880,33- Psychiatrie,86,2487996,186402,24,86,Vienne,62
+881,02- Anesthésie-réanimation chirurgicale,87,6957219,1773010,20,87,Haute-Vienne,68
+882,03- Pathologie cardio-vasculaire,87,4447962,2078,17,87,Haute-Vienne,68
+883,16- Chirurgie urologique,87,2723721,632680,11,87,Haute-Vienne,68
+884,41- Chirurgie orthopédique et traumatologie,87,3557959,1277227,14,87,Haute-Vienne,68
+885,05- Dermato-vénéréologie,87,2978319,539882,15,87,Haute-Vienne,68
+886,06- Radiodiagnostic et imagerie médicale,87,11151965,1509,23,87,Haute-Vienne,68
+887,Women,87,3294676,541569,21,87,Haute-Vienne,68
+888,14- Rhumatologie,87,2883432,500857,14,87,Haute-Vienne,68
+889,15- Ophtalmologie,87,8067245,1499227,24,87,Haute-Vienne,68
+890,33- Psychiatrie,87,3139162,112463,29,87,Haute-Vienne,68
+891,02- Anesthésie-réanimation chirurgicale,91,19313415,4304542,56,91,Essonne,707
+892,03- Pathologie cardio-vasculaire,91,26918036,715560,104,91,Essonne,707
+893,04- Chirurgie générale,91,5204700,2595146,26,91,Essonne,707
+894,16- Chirurgie urologique,91,2172262,1499321,12,91,Essonne,707
+895,41- Chirurgie orthopédique et traumatologie,91,10198656,5481465,36,91,Essonne,707
+896,05- Dermato-vénéréologie,91,5995118,2194482,55,91,Essonne,707
+897,06- Radiodiagnostic et imagerie médicale,91,47899888,12607894,85,91,Essonne,707
+898,Women,91,2204147,1191983,27,91,Essonne,707
+899,Women,91,10920564,7182000,66,91,Essonne,707
+900,08- Gastro-entérologie et hépatologie,91,6860525,1350032,35,91,Essonne,707
+901,11- Oto-rhino-laryngologie,91,6261504,2303711,38,91,Essonne,707
+902,Children,91,8844483,1329475,59,91,Essonne,707
+903,13- Pneumologie,91,3011353,446887,18,91,Essonne,707
+904,14- Rhumatologie,91,3277838,1010359,26,91,Essonne,707
+905,15- Ophtalmologie,91,18265263,8490334,80,91,Essonne,707
+906,33- Psychiatrie,91,10068698,2564066,63,91,Essonne,707
+907,35- Néphrologie,91,3704581,12303,11,91,Essonne,707
+908,42- Endocrinologie et métabolisme,91,1072909,232370,13,91,Essonne,707
+909,02- Anesthésie-réanimation chirurgicale,92,25768121,19980375,113,92,Hauts-de-Seine,9100
+910,03- Pathologie cardio-vasculaire,92,29893526,6353029,133,92,Hauts-de-Seine,9100
+911,46- Chirurgie plastique reconstructrice et esthétique,92,1210024,1348557,14,92,Hauts-de-Seine,9100
+912,04- Chirurgie générale,92,4214732,3702091,39,92,Hauts-de-Seine,9100
+913,16- Chirurgie urologique,92,2872387,2440363,15,92,Hauts-de-Seine,9100
+914,41- Chirurgie orthopédique et traumatologie,92,7543898,7709453,47,92,Hauts-de-Seine,9100
+915,05- Dermato-vénéréologie,92,11562748,7170289,113,92,Hauts-de-Seine,9100
+916,72- Médecine nucléaire,92,6696582,939160,12,92,Hauts-de-Seine,9100
+917,74- Oncologie radiothérapique,92,25166045,4637440,13,92,Hauts-de-Seine,9100
+918,06- Radiodiagnostic et imagerie médicale,92,63421770,22675067,134,92,Hauts-de-Seine,9100
+919,Women,92,3002569,2670694,43,92,Hauts-de-Seine,9100
+920,Women,92,14182039,12865199,125,92,Hauts-de-Seine,9100
+921,08- Gastro-entérologie et hépatologie,92,11326755,5392648,70,92,Hauts-de-Seine,9100
+922,73- Oncologie médicale,92,1489231,946303,13,92,Hauts-de-Seine,9100
+923,09- Médecine interne,92,1297420,968151,11,92,Hauts-de-Seine,9100
+924,11- Oto-rhino-laryngologie,92,10673754,8150784,77,92,Hauts-de-Seine,9100
+925,Children,92,14234302,9771092,152,92,Hauts-de-Seine,9100
+926,13- Pneumologie,92,4189280,1161531,24,92,Hauts-de-Seine,9100
+927,14- Rhumatologie,92,5500826,3283780,55,92,Hauts-de-Seine,9100
+928,15- Ophtalmologie,92,27197322,18347067,135,92,Hauts-de-Seine,9100
+929,18- Stomatologie,92,1662603,2549891,18,92,Hauts-de-Seine,9100
+930,31- Médecine Physique et de Réadaptation,92,790605,768090,11,92,Hauts-de-Seine,9100
+931,32- Neurologie,92,5138252,1775101,27,92,Hauts-de-Seine,9100
+932,33- Psychiatrie,92,13972935,8460355,176,92,Hauts-de-Seine,9100
+933,35- Néphrologie,92,2929073,133389,14,92,Hauts-de-Seine,9100
+934,37- Anatomo-cyto-pathologie,92,7878753,771752,14,92,Hauts-de-Seine,9100
+935,42- Endocrinologie et métabolisme,92,2469270,1465631,32,92,Hauts-de-Seine,9100
+936,38- Médecins biologistes,92,126562,7872,22,92,Hauts-de-Seine,9100
+937,02- Anesthésie-réanimation chirurgicale,93,17931396,3062242,54,93,Seine-Saint-Denis,6748
+938,03- Pathologie cardio-vasculaire,93,34461439,923398,120,93,Seine-Saint-Denis,6748
+939,04- Chirurgie générale,93,4880262,1586303,28,93,Seine-Saint-Denis,6748
+940,16- Chirurgie urologique,93,4378601,1886621,15,93,Seine-Saint-Denis,6748
+941,41- Chirurgie orthopédique et traumatologie,93,7008194,3414024,27,93,Seine-Saint-Denis,6748
+942,05- Dermato-vénéréologie,93,4045232,1254048,30,93,Seine-Saint-Denis,6748
+943,06- Radiodiagnostic et imagerie médicale,93,60250124,5724552,94,93,Seine-Saint-Denis,6748
+944,Women,93,14936733,4797784,68,93,Seine-Saint-Denis,6748
+945,08- Gastro-entérologie et hépatologie,93,7482137,1026097,34,93,Seine-Saint-Denis,6748
+946,11- Oto-rhino-laryngologie,93,7210453,1529310,42,93,Seine-Saint-Denis,6748
+947,Children,93,8125550,2503055,59,93,Seine-Saint-Denis,6748
+948,13- Pneumologie,93,2766810,113538,12,93,Seine-Saint-Denis,6748
+949,14- Rhumatologie,93,3207238,694170,23,93,Seine-Saint-Denis,6748
+950,15- Ophtalmologie,93,15181020,6279864,67,93,Seine-Saint-Denis,6748
+951,33- Psychiatrie,93,7453089,748521,64,93,Seine-Saint-Denis,6748
+952,35- Néphrologie,93,6652055,392,22,93,Seine-Saint-Denis,6748
+953,42- Endocrinologie et métabolisme,93,1419626,401538,11,93,Seine-Saint-Denis,6748
+954,38- Médecins biologistes,93,104903,1175,17,93,Seine-Saint-Denis,6748
+955,02- Anesthésie-réanimation chirurgicale,94,16289264,7330868,58,94,Val-de-Marne,5601
+956,03- Pathologie cardio-vasculaire,94,19693663,1155480,98,94,Val-de-Marne,5601
+957,49- Chirurgie viscérale et digestive,94,1829371,819110,11,94,Val-de-Marne,5601
+958,04- Chirurgie générale,94,2567201,1220687,15,94,Val-de-Marne,5601
+959,16- Chirurgie urologique,94,3567367,1827101,18,94,Val-de-Marne,5601
+960,41- Chirurgie orthopédique et traumatologie,94,5145717,3237835,29,94,Val-de-Marne,5601
+961,05- Dermato-vénéréologie,94,6943617,2710027,63,94,Val-de-Marne,5601
+962,06- Radiodiagnostic et imagerie médicale,94,51535334,9324153,96,94,Val-de-Marne,5601
+963,Women,94,1867692,1765081,24,94,Val-de-Marne,5601
+964,Women,94,4772047,2556453,28,94,Val-de-Marne,5601
+965,Women,94,9869654,6768717,56,94,Val-de-Marne,5601
+966,08- Gastro-entérologie et hépatologie,94,8181610,1687176,44,94,Val-de-Marne,5601
+967,11- Oto-rhino-laryngologie,94,5656499,2977754,51,94,Val-de-Marne,5601
+968,Children,94,9805680,3878757,82,94,Val-de-Marne,5601
+969,13- Pneumologie,94,3916434,333818,22,94,Val-de-Marne,5601
+970,14- Rhumatologie,94,5357703,1981887,49,94,Val-de-Marne,5601
+971,15- Ophtalmologie,94,18683514,11188036,101,94,Val-de-Marne,5601
+972,18- Stomatologie,94,1764015,2132563,16,94,Val-de-Marne,5601
+973,32- Neurologie,94,2538205,548840,17,94,Val-de-Marne,5601
+974,33- Psychiatrie,94,8564919,2871648,89,94,Val-de-Marne,5601
+975,35- Néphrologie,94,3882092,5387,12,94,Val-de-Marne,5601
+976,42- Endocrinologie et métabolisme,94,1174086,637592,16,94,Val-de-Marne,5601
+977,38- Médecins biologistes,94,24888,0,19,94,Val-de-Marne,5601
+978,02- Anesthésie-réanimation chirurgicale,95,14014931,5132549,41,95,Val-d'Oise,975
+979,03- Pathologie cardio-vasculaire,95,15503728,1883854,64,95,Val-d'Oise,975
+980,04- Chirurgie générale,95,3771905,2050562,20,95,Val-d'Oise,975
+981,16- Chirurgie urologique,95,3055016,1384570,14,95,Val-d'Oise,975
+982,41- Chirurgie orthopédique et traumatologie,95,9460944,4718132,40,95,Val-d'Oise,975
+983,05- Dermato-vénéréologie,95,5083299,2011401,42,95,Val-d'Oise,975
+984,06- Radiodiagnostic et imagerie médicale,95,46658417,10727228,77,95,Val-d'Oise,975
+985,Women,95,1682660,595322,13,95,Val-d'Oise,975
+986,Women,95,14224141,7544685,76,95,Val-d'Oise,975
+987,08- Gastro-entérologie et hépatologie,95,6919638,1159281,26,95,Val-d'Oise,975
+988,11- Oto-rhino-laryngologie,95,5853753,2295811,36,95,Val-d'Oise,975
+989,Children,95,6734339,1396819,51,95,Val-d'Oise,975
+990,13- Pneumologie,95,2588266,65633,12,95,Val-d'Oise,975
+991,14- Rhumatologie,95,2381277,1055292,19,95,Val-d'Oise,975
+992,15- Ophtalmologie,95,21040446,10143709,76,95,Val-d'Oise,975
+993,18- Stomatologie,95,1869804,1705379,14,95,Val-d'Oise,975
+994,32- Neurologie,95,4370170,109916,11,95,Val-d'Oise,975
+995,33- Psychiatrie,95,7732335,2165514,73,95,Val-d'Oise,975
+996,35- Néphrologie,95,3451207,2649,13,95,Val-d'Oise,975
+997,42- Endocrinologie et métabolisme,95,909848,286445,12,95,Val-d'Oise,975
+998,38- Médecins biologistes,95,115909,66,28,95,Val-d'Oise,975
+999,02- Anesthésie-réanimation chirurgicale,971,3348361,42624,11,971,Guadeloupe,248
+1000,03- Pathologie cardio-vasculaire,971,6059366,301024,22,971,Guadeloupe,248
+1001,05- Dermato-vénéréologie,971,1475440,252974,11,971,Guadeloupe,248
+1002,06- Radiodiagnostic et imagerie médicale,971,14101191,411667,27,971,Guadeloupe,248
+1003,Women,971,5610063,349075,31,971,Guadeloupe,248
+1004,08- Gastro-entérologie et hépatologie,971,3322229,126719,14,971,Guadeloupe,248
+1005,11- Oto-rhino-laryngologie,971,1437875,269897,12,971,Guadeloupe,248
+1006,Children,971,3797955,127082,21,971,Guadeloupe,248
+1007,15- Ophtalmologie,971,9588790,1118276,28,971,Guadeloupe,248
+1008,02- Anesthésie-réanimation chirurgicale,972,3321864,1094422,11,972,Martinique,344
+1009,03- Pathologie cardio-vasculaire,972,5253381,9117,14,972,Martinique,344
+1010,41- Chirurgie orthopédique et traumatologie,972,2089327,864344,13,972,Martinique,344
+1011,06- Radiodiagnostic et imagerie médicale,972,12384997,796284,24,972,Martinique,344
+1012,Women,972,2984999,621678,22,972,Martinique,344
+1013,Children,972,1088661,182792,14,972,Martinique,344
+1014,15- Ophtalmologie,972,7009681,970356,27,972,Martinique,344
+1015,02- Anesthésie-réanimation chirurgicale,974,10261433,189574,32,974,La Réunion,334
+1016,03- Pathologie cardio-vasculaire,974,17788283,9676,52,974,La Réunion,334
+1017,41- Chirurgie orthopédique et traumatologie,974,4356574,736239,14,974,La Réunion,334
+1018,05- Dermato-vénéréologie,974,4656369,48889,21,974,La Réunion,334
+1019,06- Radiodiagnostic et imagerie médicale,974,36395540,66243,62,974,La Réunion,334
+1020,Women,974,13277183,1481111,51,974,La Réunion,334
+1021,08- Gastro-entérologie et hépatologie,974,4833674,11205,21,974,La Réunion,334
+1022,11- Oto-rhino-laryngologie,974,5596345,636641,20,974,La Réunion,334
+1023,Children,974,6357103,100324,37,974,La Réunion,334
+1024,15- Ophtalmologie,974,15867694,1737656,41,974,La Réunion,334
+1025,33- Psychiatrie,974,6410464,477811,33,974,La Réunion,334
+1026,42- Endocrinologie et métabolisme,974,1430841,100478,11,974,La Réunion,334
+1027,03- Pathologie cardio-vasculaire,12,3476277,2965,16,12,Aveyron,32
+1028,06- Radiodiagnostic et imagerie médicale,12,4544704,3581,13,12,Aveyron,32
+1029,15- Ophtalmologie,12,4575944,82485,13,12,Aveyron,32
+1030,03- Pathologie cardio-vasculaire,18,4076748,8341,18,18,Cher,43
+1031,06- Radiodiagnostic et imagerie médicale,18,8530705,604310,19,18,Cher,43
+1032,Women,18,2001441,380190,12,18,Cher,43
+1033,33- Psychiatrie,18,1853300,38914,16,18,Cher,43
+1034,03- Pathologie cardio-vasculaire,19,3710404,1850,17,19,Corrèze,41
+1035,06- Radiodiagnostic et imagerie médicale,19,5816517,8265,11,19,Corrèze,41
+1036,15- Ophtalmologie,19,4558200,676663,12,19,Corrèze,41
+1037,33- Psychiatrie,19,996002,44913,11,19,Corrèze,41
+1038,03- Pathologie cardio-vasculaire,2A,2562472,694,13,2A,Corse-du-Sud,36
+1039,06- Radiodiagnostic et imagerie médicale,2A,10194437,7335,15,2A,Corse-du-Sud,36
+1040,15- Ophtalmologie,2A,3857596,1407281,15,2A,Corse-du-Sud,36
+1041,33- Psychiatrie,2A,1106954,46811,13,2A,Corse-du-Sud,36
+1042,03- Pathologie cardio-vasculaire,27,4606738,175739,17,27,Eure,98
+1043,05- Dermato-vénéréologie,27,2290679,516270,11,27,Eure,98
+1044,06- Radiodiagnostic et imagerie médicale,27,10282577,375854,20,27,Eure,98
+1045,Women,27,1893076,882452,14,27,Eure,98
+1046,11- Oto-rhino-laryngologie,27,2335024,468778,11,27,Eure,98
+1047,15- Ophtalmologie,27,6662447,2803296,27,27,Eure,98
+1048,33- Psychiatrie,27,3421926,535922,16,27,Eure,98
+1049,03- Pathologie cardio-vasculaire,28,6558285,61706,28,28,Eure-et-Loir,73
+1050,41- Chirurgie orthopédique et traumatologie,28,1698802,503352,12,28,Eure-et-Loir,73
+1051,06- Radiodiagnostic et imagerie médicale,28,12477306,362699,28,28,Eure-et-Loir,73
+1052,Women,28,2289692,1252650,21,28,Eure-et-Loir,73
+1053,15- Ophtalmologie,28,7889199,2432363,17,28,Eure-et-Loir,73
+1054,03- Pathologie cardio-vasculaire,58,2468786,35519,11,58,Nièvre,31
+1055,06- Radiodiagnostic et imagerie médicale,58,7454082,5777,19,58,Nièvre,31
+1056,15- Ophtalmologie,58,4959160,1845139,14,58,Nièvre,31
+1057,03- Pathologie cardio-vasculaire,61,3218102,2277,11,61,Orne,48
+1058,06- Radiodiagnostic et imagerie médicale,61,6872770,679,18,61,Orne,48
+1059,15- Ophtalmologie,61,3204169,500442,12,61,Orne,48
+1060,03- Pathologie cardio-vasculaire,65,5124772,966,14,65,Hautes-Pyrénées,51
+1061,06- Radiodiagnostic et imagerie médicale,65,7957428,6052,15,65,Hautes-Pyrénées,51
+1062,15- Ophtalmologie,65,4384897,2011404,12,65,Hautes-Pyrénées,51
+1063,33- Psychiatrie,65,1993912,20368,14,65,Hautes-Pyrénées,51
+1064,03- Pathologie cardio-vasculaire,79,4800147,1591,17,79,Deux-Sèvres,62
+1065,06- Radiodiagnostic et imagerie médicale,79,10631903,937845,28,79,Deux-Sèvres,62
+1066,Women,79,2584665,216034,15,79,Deux-Sèvres,62
+1067,15- Ophtalmologie,79,5141310,1385953,13,79,Deux-Sèvres,62
+1068,03- Pathologie cardio-vasculaire,88,6348586,556432,21,88,Vosges,64
+1069,06- Radiodiagnostic et imagerie médicale,88,8931163,7252,18,88,Vosges,64
+1070,Women,88,4184516,1064477,20,88,Vosges,64
+1071,Children,88,1358127,703,14,88,Vosges,64
+1072,15- Ophtalmologie,88,3565473,1681118,16,88,Vosges,64
+1073,33- Psychiatrie,88,1131032,27656,12,88,Vosges,64
+1074,03- Pathologie cardio-vasculaire,89,3446770,45782,18,89,Yonne,46
+1075,41- Chirurgie orthopédique et traumatologie,89,2549351,816373,13,89,Yonne,46
+1076,06- Radiodiagnostic et imagerie médicale,89,8536559,31529,18,89,Yonne,46
+1077,Women,89,2156723,823121,14,89,Yonne,46
+1078,Children,89,962783,270363,11,89,Yonne,46
+1079,15- Ophtalmologie,89,5372463,1554149,14,89,Yonne,46
+1080,33- Psychiatrie,89,2706264,149139,18,89,Yonne,46
+1081,03- Pathologie cardio-vasculaire,90,3131618,2743,11,90,Territoire de Belfort,235
+1082,Women,90,1664999,608237,15,90,Territoire de Belfort,235
+1083,06- Radiodiagnostic et imagerie médicale,39,8527254,407700,20,39,Jura,52
+1084,15- Ophtalmologie,39,4414488,1662897,17,39,Jura,52
+1085,33- Psychiatrie,39,1291295,22518,13,39,Jura,52
+1086,06- Radiodiagnostic et imagerie médicale,52,5741909,558223,13,52,Haute-Marne,30
+1087,06- Radiodiagnostic et imagerie médicale,53,6694304,44773,14,53,Mayenne,51
+1088,15- Ophtalmologie,53,3439496,77719,12,53,Mayenne,51
+1089,33- Psychiatrie,53,2165397,579,15,53,Mayenne,51
+1090,06- Radiodiagnostic et imagerie médicale,70,5073309,5630,14,70,Haute-Saône,45
+1091,Women,973,3659174,70494,14,973,Guyane,3
